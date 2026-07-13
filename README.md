@@ -23,7 +23,6 @@ The Django dashboard is deployed and live — you can explore it here:
 
 👉 **[View Live Dashboard](https://rotimi5050.pythonanywhere.com)**
 
-![Django Dashboard Preview](./screenshots/django/live_dashboard.png)
 
 
 ---
@@ -304,10 +303,8 @@ The complete list of DAX measures and calculated columns is available in the `po
 ---
 
 ### Django Web Application
-An interactive analytics dashboard with searchable operational records, live charts, and reports, wrapped in a responsive interface and deployed on PythonAnywhere.
 
-👉 **[View Live Dashboard](https://rotimi5050.pythonanywhere.com)**
-
+The final stage of the analytics pipeline – a fully deployed web application built with Django. It presents the cleaned operational data through an interactive dashboard with searchable records, live charts, and exportable reports.
 
 ---
 
