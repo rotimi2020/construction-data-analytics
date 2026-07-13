@@ -211,7 +211,7 @@ Each folder has its own README with more detail on what's inside.
 ### Excel Analytics
 A comprehensive Excel workbook featuring KPI summaries, project cost analysis, material tracking, cement reconciliation, pivot analysis, and executive-ready PDF reports.
 
-![Excel KPI Summary](./excel/screenshots/kpi_summary.png)
+<img src="./excel/screenshots/kpi_summary.png" width="600">
 
 ---
 
@@ -232,7 +232,7 @@ ORDER BY Cost DESC;
 
 **Sample Output**
 
-![Top 5 Highest Cost Activities](./sql/screenshots/top_5_highest_cost_activities.png)
+<img src="./sql/screenshots/top_5_highest_cost_activities.png" width="600">
 
 ---
 
@@ -271,7 +271,7 @@ print(cement_pivot)
 
 **Sample Output**
 
-![Cement Reconciliation Output](./python/screenshots/cement_reconciliation.png)
+<img src="./python/screenshots/cement_reconciliation.png" width="600">
 
 ---
 
@@ -281,11 +281,7 @@ An interactive Power BI dashboard built to monitor project costs, construction a
 
 #### Dashboard Previews
 
-![Cost Summary Dashboard](./power_bi/screenshots/cost_summary.png)
-
-![Site Operations Dashboard](./power_bi/screenshots/site_operations.png)
-
-![Store Records Dashboard](./power_bi/screenshots/store_records.png)
+<img src="./power_bi/screenshots/cost_summary.png" width="600"><img src="./power_bi/screenshots/site_operations.png" width="600"><img src="./power_bi/screenshots/store_records.png" width="600">
 
 **Sample DAX Measure — Total Project Cost**
 
