@@ -281,7 +281,7 @@ An interactive Power BI dashboard built to monitor project costs, construction a
 
 #### Dashboard Previews
 
-<img src="./power_bi/screenshots/cost_summary.png" width="600"><img src="./power_bi/screenshots/site_operations.png" width="600"><img src="./power_bi/screenshots/store_records.png" width="600">
+<img src="./power_bi/screenshots/cost_summary.PNG" width="600"><img src="./power_bi/screenshots/site_operations.PNG" width="600"><img src="./power_bi/screenshots/store_records.PNG" width="600">
 
 **Sample DAX Measure — Total Project Cost**
 
