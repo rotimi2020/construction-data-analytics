@@ -1,0 +1,349 @@
+Log_ID,Date,Day,Week,Month,Category,Item,Quantity,Unit,Operation,Location,Notes,Source,Labour_Cost_NGN,Mixer_Hours,Vibrator_Hours,Excavation_Rate,Excavation_Cost_NGN,Base_Casting_Cost_NGN,Wall_Casting_Cost_NGN,Water_Trip_Cost_NGN
+LOG001,1/27/2026,Tuesday,W5,26-Jan,Work,Excavation,125,m,Completed,Site A,Line drain excavation,Group,0,0,0,0,100000,0,0,0
+LOG002,1/27/2026,Tuesday,W5,26-Jan,Cost,Labour Cost,15000,NGN,Paid,Site A,Labour for excavation,Group,15000,0,0,0,0,0,0,0
+LOG003,1/28/2026,Wednesday,W5,26-Jan,Work,Excavation,163.4,m,Completed,Site A,Daily excavation,Group,0,0,0,0,130720,0,0,0
+LOG004,1/28/2026,Wednesday,W5,26-Jan,Cost,Labour Cost,18000,NGN,Paid,Site A,Labour for excavation,Group,18000,0,0,0,0,0,0,0
+LOG005,1/29/2026,Thursday,W5,26-Jan,Work,Excavation,165,m,Completed,Site A,Daily excavation,Group,0,0,0,0,132000,0,0,0
+LOG006,1/29/2026,Thursday,W5,26-Jan,Cost,Labour Cost,18000,NGN,Paid,Site A,Labour for excavation,Group,18000,0,0,0,0,0,0,0
+LOG007,1/30/2026,Friday,W5,26-Jan,Work,Excavation,122.4,m,Completed,Site B,Daily excavation,Group,0,0,0,0,122400,0,0,0
+LOG008,1/30/2026,Friday,W5,26-Jan,Cost,Labour Cost,14000,NGN,Paid,Site B,Labour for excavation,Group,14000,0,0,0,0,0,0,0
+LOG009,1/31/2026,Saturday,W5,26-Jan,Work,Excavation,169.6,m,Completed,Site B,Daily excavation,Group,0,0,0,0,169600,0,0,0
+LOG010,1/31/2026,Saturday,W5,26-Jan,Cost,Labour Cost,18000,NGN,Paid,Site B,Labour for excavation,Group,18000,0,0,0,0,0,0,0
+LOG011,2/1/2026,Sunday,W5,26-Feb,Work,Excavation,64,m,Completed,Site B,Daily excavation,Group,0,0,0,0,64000,0,0,0
+LOG012,2/1/2026,Sunday,W5,26-Feb,Cost,Labour Cost,8000,NGN,Paid,Site B,Labour for excavation,Group,8000,0,0,0,0,0,0,0
+LOG013,2/1/2026,Sunday,W5,26-Feb,Work,Excavation,0,m,Completed,Site B,Removal of trees,Group,0,0,0,0,0,0,0,0
+LOG014,2/2/2026,Monday,W6,26-Feb,Work,Excavation,152.5,m,Completed,Site B,Daily excavation,Group,0,0,0,0,152500,0,0,0
+LOG015,2/2/2026,Monday,W6,26-Feb,Cost,Labour Cost,16000,NGN,Paid,Site B,Labour for excavation,Group,16000,0,0,0,0,0,0,0
+LOG016,2/4/2026,Wednesday,W6,26-Feb,Work,Excavation,17,m,Completed,Site B,Daily excavation,Group,0,0,0,0,17000,0,0,0
+LOG017,2/4/2026,Wednesday,W6,26-Feb,Cost,Labour Cost,2000,NGN,Paid,Site B,Labour for excavation,Group,2000,0,0,0,0,0,0,0
+LOG018,2/5/2026,Thursday,W6,26-Feb,Work,Excavation,0,m,Completed,Site B,Culvert & apron preparation,Group,0,0,0,0,0,0,0,0
+LOG019,2/6/2026,Friday,W6,26-Feb,Work,Excavation,0,m,Completed,Site B,Box culvert excavation (cost only),Group,0,0,0,0,0,0,0,0
+LOG020,2/6/2026,Friday,W6,26-Feb,Material,Y16 Rebar Delivered,54,pcs,Delivered,Site A,Y16 rebar delivery,Store Count,0,0,0,0,0,0,0,0
+LOG021,2/6/2026,Friday,W6,26-Feb,Material,Y10 Rebar Delivered,402,pcs,Delivered,Site A,Y10 rebar delivery,Store Count,0,0,0,0,0,0,0,0
+LOG022,2/6/2026,Friday,W6,26-Feb,Material,Y8 Rebar Delivered,840,pcs,Delivered,Site A,Y8 rebar delivery,Store Count,0,0,0,0,0,0,0,0
+LOG023,2/8/2026,Sunday,W6,26-Feb,Work,Excavation Repair,69,m,Completed,Site A,Trench repair,Group,0,0,0,0,55200,0,0,0
+LOG024,2/8/2026,Sunday,W6,26-Feb,Cost,Labour Cost,7000,NGN,Paid,Site A,Labour for trench repair,Group,7000,0,0,0,0,0,0,0
+LOG025,2/8/2026,Sunday,W6,26-Feb,Operations,Reinforcement Basket,5,nos,Produced,Site A,Basket production,Group,0,0,0,0,0,0,0,0
+LOG026,2/9/2026,Monday,W7,26-Feb,Work,Excavation Repair,120,m,Completed,Site A,Trench repair,Group,0,0,0,0,96000,0,0,0
+LOG027,2/9/2026,Monday,W7,26-Feb,Cost,Labour Cost,12000,NGN,Paid,Site A,Labour for trench repair,Group,12000,0,0,0,0,0,0,0
+LOG028,2/9/2026,Monday,W7,26-Feb,Operations,Reinforcement Basket,12,nos,Produced,Site A,Basket production,Group,0,0,0,0,0,0,0,0
+LOG029,2/10/2026,Tuesday,W7,26-Feb,Work,Excavation Repair,33,m,Completed,Site A,Trench repair,Group,0,0,0,0,26400,0,0,0
+LOG030,2/10/2026,Tuesday,W7,26-Feb,Cost,Labour Cost,3500,NGN,Paid,Site A,Labour for trench repair,Group,3500,0,0,0,0,0,0,0
+LOG031,2/10/2026,Tuesday,W7,26-Feb,Operations,Reinforcement Basket,8,nos,Produced,Site A,Basket production,Group,0,0,0,0,0,0,0,0
+LOG032,2/11/2026,Wednesday,W7,26-Feb,Work,Excavation Repair,44,m,Completed,Site A,Trench repair,Group,0,0,0,0,35200,0,0,0
+LOG033,2/11/2026,Wednesday,W7,26-Feb,Cost,Labour Cost,4500,NGN,Paid,Site A,Labour for trench repair,Group,4500,0,0,0,0,0,0,0
+LOG034,2/12/2026,Thursday,W7,26-Feb,Work,Excavation Repair,53,m,Completed,Site A,Trench repair,Group,0,0,0,0,42400,0,0,0
+LOG035,2/12/2026,Thursday,W7,26-Feb,Cost,Labour Cost,5500,NGN,Paid,Site A,Labour for trench repair,Group,5500,0,0,0,0,0,0,0
+LOG036,2/12/2026,Thursday,W7,26-Feb,Material,Cement Delivered,450,bags,Delivered,Site A,Initial cement delivery,Group,0,0,0,0,0,0,0,0
+LOG037,2/12/2026,Thursday,W7,26-Feb,Operations,Reinforcement Basket,11,nos,Produced,Site A,Basket production,Group,0,0,0,0,0,0,0,0
+LOG038,2/13/2026,Friday,W7,26-Feb,Work,Excavation Repair,49,m,Completed,Site A,Trench repair,Group,0,0,0,0,39200,0,0,0
+LOG039,2/13/2026,Friday,W7,26-Feb,Cost,Labour Cost,5000,NGN,Paid,Site A,Labour for trench repair,Group,5000,0,0,0,0,0,0,0
+LOG040,2/13/2026,Friday,W7,26-Feb,Operations,Reinforcement Basket,0,nos,Produced,Site A,No production (wedding),Group,0,0,0,0,0,0,0,0
+LOG041,2/14/2026,Saturday,W7,26-Feb,Operations,Reinforcement Basket,0,nos,Produced,Site A,No production,Group,0,0,0,0,0,0,0,0
+LOG042,2/15/2026,Sunday,W7,26-Feb,Operations,Reinforcement Basket,1,nos,Produced,Site A,Basket production,Group,0,0,0,0,0,0,0,0
+LOG043,2/16/2026,Monday,W8,26-Feb,Operations,Base Casting,40,m,Used,Site A,Base casting activities,Group,0,0,0,0,0,20000,0,0
+LOG044,2/16/2026,Monday,W8,26-Feb,Operations,Cement Used,18,bags,Used,Site A,Base casting,Group,0,0,0,0,0,0,0,0
+LOG045,2/16/2026,Monday,W8,26-Feb,Operations,Water Supply,9,trips,Used,Site A,Base casting,Group,0,0,0,0,0,0,0,9000
+LOG046,2/16/2026,Monday,W8,26-Feb,Operations,Reinforcement Basket,3.6,nos,Produced,Site A,Used in base casting,Group,0,0,0,0,0,0,0,0
+LOG047,2/16/2026,Monday,W8,26-Feb,Cost,Labour Cost,16000,NGN,Paid,Site A,4 labours,Group,16000,0,0,0,0,0,0,0
+LOG048,2/16/2026,Monday,W8,26-Feb,Equipment,Concrete Mixer,6,hours,Operated,Site A,Mixer operation,Group,0,6,0,0,0,0,0,0
+LOG049,2/16/2026,Monday,W8,26-Feb,Equipment,Concrete Vibrator,4,hours,Operated,Site A,Vibrator operation,Group,0,0,4,0,0,0,0,0
+LOG050,2/17/2026,Tuesday,W8,26-Feb,Operations,Base Casting,84,m,Used,Site A,Base casting activities,Group,0,0,0,0,0,42000,0,0
+LOG051,2/17/2026,Tuesday,W8,26-Feb,Operations,Cement Used,22,bags,Used,Site A,Base casting,Group,0,0,0,0,0,0,0,0
+LOG052,2/17/2026,Tuesday,W8,26-Feb,Operations,Water Supply,15,trips,Used,Site A,Base casting,Group,0,0,0,0,0,0,0,15000
+LOG053,2/17/2026,Tuesday,W8,26-Feb,Operations,Reinforcement Basket,7.5,nos,Produced,Site A,Used in base casting,Group,0,0,0,0,0,0,0,0
+LOG054,2/17/2026,Tuesday,W8,26-Feb,Operations,Reinforcement Basket,11.9,nos,Produced,Site A,Basket production (adjusted),Group,0,0,0,0,0,0,0,0
+LOG055,2/17/2026,Tuesday,W8,26-Feb,Cost,Labour Cost,18000,NGN,Paid,Site A,Labour for base casting,Group,18000,0,0,0,0,0,0,0
+LOG056,2/17/2026,Tuesday,W8,26-Feb,Equipment,Concrete Mixer,7,hours,Operated,Site A,Mixer operation,Group,0,7,0,0,0,0,0,0
+LOG057,2/17/2026,Tuesday,W8,26-Feb,Equipment,Concrete Vibrator,5,hours,Operated,Site A,Vibrator operation,Group,0,0,5,0,0,0,0,0
+LOG058,2/18/2026,Wednesday,W8,26-Feb,Operations,Base Casting,100,m,Used,Site A,Base casting activities,Group,0,0,0,0,0,50000,0,0
+LOG059,2/18/2026,Wednesday,W8,26-Feb,Operations,Cement Used,27,bags,Used,Site A,Base casting,Group,0,0,0,0,0,0,0,0
+LOG060,2/18/2026,Wednesday,W8,26-Feb,Operations,Water Supply,15,trips,Used,Site A,Base casting,Group,0,0,0,0,0,0,0,15000
+LOG061,2/18/2026,Wednesday,W8,26-Feb,Operations,Reinforcement Basket,9,nos,Produced,Site A,Used in base casting,Group,0,0,0,0,0,0,0,0
+LOG062,2/18/2026,Wednesday,W8,26-Feb,Cost,Labour Cost,20000,NGN,Paid,Site A,Labour for base casting,Group,20000,0,0,0,0,0,0,0
+LOG063,2/18/2026,Wednesday,W8,26-Feb,Equipment,Concrete Mixer,7,hours,Operated,Site A,Mixer operation,Group,0,7,0,0,0,0,0,0
+LOG064,2/18/2026,Wednesday,W8,26-Feb,Equipment,Concrete Vibrator,5,hours,Operated,Site A,Vibrator operation,Group,0,0,5,0,0,0,0,0
+LOG065,2/19/2026,Thursday,W8,26-Feb,Operations,Base Casting,60,m,Used,Site A,Base casting activities,Group,0,0,0,0,0,30000,0,0
+LOG066,2/19/2026,Thursday,W8,26-Feb,Operations,Wall Casting,7,m,Used,Site A,Wall casting,Group,0,0,0,0,0,0,7000,0
+LOG067,2/19/2026,Thursday,W8,26-Feb,Operations,Cement Used,22,bags,Used,Site A,Base & wall casting,Group,0,0,0,0,0,0,0,0
+LOG068,2/19/2026,Thursday,W8,26-Feb,Operations,Water Supply,10,trips,Used,Site A,Base & wall casting,Group,0,0,0,0,0,0,0,10000
+LOG069,2/19/2026,Thursday,W8,26-Feb,Operations,Reinforcement Basket,6,nos,Produced,Site A,Used in base & wall,Group,0,0,0,0,0,0,0,0
+LOG070,2/19/2026,Thursday,W8,26-Feb,Cost,Labour Cost,18000,NGN,Paid,Site A,Labour for base & wall,Group,18000,0,0,0,0,0,0,0
+LOG071,2/19/2026,Thursday,W8,26-Feb,Equipment,Concrete Mixer,6,hours,Operated,Site A,Mixer operation,Group,0,6,0,0,0,0,0,0
+LOG072,2/19/2026,Thursday,W8,26-Feb,Equipment,Concrete Vibrator,4,hours,Operated,Site A,Vibrator operation,Group,0,0,4,0,0,0,0,0
+LOG073,2/20/2026,Friday,W8,26-Feb,Operations,Base Casting,70,m,Used,Site A,Base casting activities,Group,0,0,0,0,0,35000,0,0
+LOG074,2/20/2026,Friday,W8,26-Feb,Operations,Cement Used,18,bags,Used,Site A,Base casting,Group,0,0,0,0,0,0,0,0
+LOG075,2/20/2026,Friday,W8,26-Feb,Operations,Water Supply,10,trips,Used,Site A,Base casting,Group,0,0,0,0,0,0,0,10000
+LOG076,2/20/2026,Friday,W8,26-Feb,Operations,Sharp Sand,1,trip,Used,Site A,First trip sharp sand,Group,0,0,0,0,0,0,0,0
+LOG077,2/20/2026,Friday,W8,26-Feb,Cost,Labour Cost,15000,NGN,Paid,Site A,Labour for base casting,Group,15000,0,0,0,0,0,0,0
+LOG078,2/20/2026,Friday,W8,26-Feb,Equipment,Concrete Mixer,7,hours,Operated,Site A,Mixer operation,Group,0,7,0,0,0,0,0,0
+LOG079,2/20/2026,Friday,W8,26-Feb,Equipment,Concrete Vibrator,4,hours,Operated,Site A,Vibrator operation,Group,0,0,4,0,0,0,0,0
+LOG080,2/21/2026,Saturday,W8,26-Feb,Operations,Wall Casting,7,m,Used,Site A,Wall casting,Group,0,0,0,0,0,0,7000,0
+LOG081,2/21/2026,Saturday,W8,26-Feb,Operations,Cement Used,5,bags,Used,Site A,Wall casting,Group,0,0,0,0,0,0,0,0
+LOG082,2/21/2026,Saturday,W8,26-Feb,Operations,Water Supply,4,trips,Used,Site A,Wall casting,Group,0,0,0,0,0,0,0,4000
+LOG083,2/21/2026,Saturday,W8,26-Feb,Operations,Granite,1,trip,Used,Site A,First aggregate trip,Group,0,0,0,0,0,0,0,0
+LOG084,2/21/2026,Saturday,W8,26-Feb,Operations,Reinforcement Basket,4,nos,Produced,Site A,Basket production,Group,0,0,0,0,0,0,0,0
+LOG085,2/21/2026,Saturday,W8,26-Feb,Cost,Labour Cost,8000,NGN,Paid,Site A,Labour for wall casting,Group,8000,0,0,0,0,0,0,0
+LOG086,2/21/2026,Saturday,W8,26-Feb,Equipment,Concrete Mixer,4,hours,Operated,Site A,Mixer operation,Group,0,4,0,0,0,0,0,0
+LOG087,2/21/2026,Saturday,W8,26-Feb,Equipment,Concrete Vibrator,3,hours,Operated,Site A,Vibrator operation,Group,0,0,3,0,0,0,0,0
+LOG088,2/22/2026,Sunday,W8,26-Feb,Work,Excavation Repair,40,m,Completed,Site A,Drain repair,Group,0,0,0,0,32000,0,0,0
+LOG089,2/22/2026,Sunday,W8,26-Feb,Operations,Wall Casting,50,m,Used,Site A,Wall casting,Group,0,0,0,0,0,0,50000,0
+LOG090,2/22/2026,Sunday,W8,26-Feb,Operations,Cement Used,35,bags,Used,Site A,Wall casting,Group,0,0,0,0,0,0,0,0
+LOG091,2/22/2026,Sunday,W8,26-Feb,Operations,Water Supply,14,trips,Used,Site A,Wall casting,Group,0,0,0,0,0,0,0,14000
+LOG092,2/22/2026,Sunday,W8,26-Feb,Operations,Granite,1,trip,Used,Site A,Aggregate,Group,0,0,0,0,0,0,0,0
+LOG093,2/22/2026,Sunday,W8,26-Feb,Operations,Reinforcement Basket,7,nos,Produced,Site A,Basket production,Group,0,0,0,0,0,0,0,0
+LOG094,2/22/2026,Sunday,W8,26-Feb,Cost,Labour Cost,15000,NGN,Paid,Site A,Labour for wall casting,Group,15000,0,0,0,0,0,0,0
+LOG095,2/22/2026,Sunday,W8,26-Feb,Equipment,Concrete Mixer,7,hours,Operated,Site A,Mixer operation,Group,0,7,0,0,0,0,0,0
+LOG096,2/22/2026,Sunday,W8,26-Feb,Equipment,Concrete Vibrator,5,hours,Operated,Site A,Vibrator operation,Group,0,0,5,0,0,0,0,0
+LOG097,2/23/2026,Monday,W9,26-Feb,Work,Excavation Repair,80,m,Completed,Site A,Drain repair,Group,0,0,0,0,64000,0,0,0
+LOG098,2/23/2026,Monday,W9,26-Feb,Operations,Base Casting,56,m,Used,Site A,Base casting activities,Group,0,0,0,0,0,28000,0,0
+LOG099,2/23/2026,Monday,W9,26-Feb,Operations,Cement Used,18,bags,Used,Site A,Base casting,Group,0,0,0,0,0,0,0,0
+LOG100,2/23/2026,Monday,W9,26-Feb,Operations,Water Supply,9,trips,Used,Site A,Base casting,Group,0,0,0,0,0,0,0,9000
+LOG101,2/23/2026,Monday,W9,26-Feb,Operations,Granite,4,trips,Used,Site A,Howo trips,Group,0,0,0,0,0,0,0,0
+LOG102,2/23/2026,Monday,W9,26-Feb,Cost,Labour Cost,12000,NGN,Paid,Site A,Labour for base casting,Group,12000,0,0,0,0,0,0,0
+LOG103,2/23/2026,Monday,W9,26-Feb,Equipment,Concrete Mixer,6,hours,Operated,Site A,Mixer operation,Group,0,6,0,0,0,0,0,0
+LOG104,2/23/2026,Monday,W9,26-Feb,Equipment,Concrete Vibrator,4,hours,Operated,Site A,Vibrator operation,Group,0,0,4,0,0,0,0,0
+LOG105,2/24/2026,Tuesday,W9,26-Feb,Work,Excavation Repair,86,m,Completed,Site A,Drain repair,Group,0,0,0,0,68800,0,0,0
+LOG106,2/24/2026,Tuesday,W9,26-Feb,Operations,Base Casting,7,m,Used,Site A,Base casting activities,Group,0,0,0,0,0,3500,0,0
+LOG107,2/24/2026,Tuesday,W9,26-Feb,Operations,Wall Casting,40,m,Used,Site A,Wall casting,Group,0,0,0,0,0,0,40000,0
+LOG108,2/24/2026,Tuesday,W9,26-Feb,Operations,Cement Used,26,bags,Used,Site A,Base & wall casting,Group,0,0,0,0,0,0,0,0
+LOG109,2/24/2026,Tuesday,W9,26-Feb,Operations,Water Supply,15,trips,Used,Site A,Base & wall casting,Group,0,0,0,0,0,0,0,15000
+LOG110,2/24/2026,Tuesday,W9,26-Feb,Cost,Labour Cost,14000,NGN,Paid,Site A,Labour for base & wall,Group,14000,0,0,0,0,0,0,0
+LOG111,2/24/2026,Tuesday,W9,26-Feb,Equipment,Concrete Mixer,7,hours,Operated,Site A,Mixer operation,Group,0,7,0,0,0,0,0,0
+LOG112,2/24/2026,Tuesday,W9,26-Feb,Equipment,Concrete Vibrator,5,hours,Operated,Site A,Vibrator operation,Group,0,0,5,0,0,0,0,0
+LOG113,2/25/2026,Wednesday,W9,26-Feb,Work,Excavation Repair,58,m,Completed,Site A,Drain repair,Group,0,0,0,0,46400,0,0,0
+LOG114,2/25/2026,Wednesday,W9,26-Feb,Operations,Wall Casting,56,m,Used,Site A,Wall casting,Group,0,0,0,0,0,0,56000,0
+LOG115,2/25/2026,Wednesday,W9,26-Feb,Operations,Cement Used,44,bags,Used,Site A,Wall casting,Group,0,0,0,0,0,0,0,0
+LOG116,2/25/2026,Wednesday,W9,26-Feb,Operations,Water Supply,16,trips,Used,Site A,Wall casting,Group,0,0,0,0,0,0,0,16000
+LOG117,2/25/2026,Wednesday,W9,26-Feb,Cost,Labour Cost,16000,NGN,Paid,Site A,Labour for wall casting,Group,16000,0,0,0,0,0,0,0
+LOG118,2/25/2026,Wednesday,W9,26-Feb,Equipment,Concrete Mixer,7,hours,Operated,Site A,Mixer operation,Group,0,7,0,0,0,0,0,0
+LOG119,2/25/2026,Wednesday,W9,26-Feb,Equipment,Concrete Vibrator,5,hours,Operated,Site A,Vibrator operation,Group,0,0,5,0,0,0,0,0
+LOG120,2/26/2026,Thursday,W9,26-Feb,Work,Excavation Repair,0,m,Completed,Site A,No excavation repair,Group,0,0,0,0,0,0,0,0
+LOG121,2/26/2026,Thursday,W9,26-Feb,Material,Cement Missing,34,bags,Missing,Site A,Store shortage identified,Personal,0,0,0,0,0,0,0,0
+LOG122,2/26/2026,Thursday,W9,26-Feb,Operations,Base Casting,50,m,Used,Site A,Base casting activities,Group,0,0,0,0,0,25000,0,0
+LOG123,2/26/2026,Thursday,W9,26-Feb,Operations,Wall Casting,50,m,Used,Site A,Wall casting,Group,0,0,0,0,0,0,50000,0
+LOG124,2/26/2026,Thursday,W9,26-Feb,Operations,Cement Used,32,bags,Used,Site A,Base & wall casting,Group,0,0,0,0,0,0,0,0
+LOG125,2/26/2026,Thursday,W9,26-Feb,Operations,Water Supply,14,trips,Used,Site A,Base & wall casting,Group,0,0,0,0,0,0,0,14000
+LOG126,2/26/2026,Thursday,W9,26-Feb,Cost,Labour Cost,12000,NGN,Paid,Site A,Labour for base & wall,Group,12000,0,0,0,0,0,0,0
+LOG127,2/26/2026,Thursday,W9,26-Feb,Equipment,Concrete Mixer,6,hours,Operated,Site A,Mixer operation,Group,0,6,0,0,0,0,0,0
+LOG128,2/26/2026,Thursday,W9,26-Feb,Equipment,Concrete Vibrator,4,hours,Operated,Site A,Vibrator operation,Group,0,0,4,0,0,0,0,0
+LOG129,2/27/2026,Friday,W9,26-Feb,Work,Excavation Repair,47.5,m,Completed,Site A,Trench repair,Group,0,0,0,0,38000,0,0,0
+LOG130,2/27/2026,Friday,W9,26-Feb,Operations,Wall Casting,41.8,m,Used,Site A,Wall casting,Group,0,0,0,0,0,0,41800,0
+LOG131,2/27/2026,Friday,W9,26-Feb,Operations,Cement Used,20.5,bags,Used,Site A,Wall casting,Group,0,0,0,0,0,0,0,0
+LOG132,2/27/2026,Friday,W9,26-Feb,Operations,Water Supply,14,trips,Used,Site A,Wall casting,Group,0,0,0,0,0,0,0,14000
+LOG133,2/27/2026,Friday,W9,26-Feb,Cost,Labour Cost,12000,NGN,Paid,Site A,Labour for wall casting,Group,12000,0,0,0,0,0,0,0
+LOG134,2/27/2026,Friday,W9,26-Feb,Equipment,Concrete Mixer,6,hours,Operated,Site A,Mixer operation,Group,0,6,0,0,0,0,0,0
+LOG135,2/27/2026,Friday,W9,26-Feb,Equipment,Concrete Vibrator,4,hours,Operated,Site A,Vibrator operation,Group,0,0,4,0,0,0,0,0
+LOG136,2/28/2026,Saturday,W9,26-Feb,Operations,Wall Casting,80,m,Used,Site A,Wall casting,Group,0,0,0,0,0,0,80000,0
+LOG137,2/28/2026,Saturday,W9,26-Feb,Operations,Cement Used,38.5,bags,Used,Site A,Wall casting,Group,0,0,0,0,0,0,0,0
+LOG138,2/28/2026,Saturday,W9,26-Feb,Operations,Water Supply,22,trips,Used,Site A,Wall casting,Group,0,0,0,0,0,0,0,22000
+LOG139,2/28/2026,Saturday,W9,26-Feb,Cost,Labour Cost,18000,NGN,Paid,Site A,Labour for wall casting,Group,18000,0,0,0,0,0,0,0
+LOG140,2/28/2026,Saturday,W9,26-Feb,Equipment,Concrete Mixer,7,hours,Operated,Site A,Mixer operation,Group,0,7,0,0,0,0,0,0
+LOG141,2/28/2026,Saturday,W9,26-Feb,Equipment,Concrete Vibrator,5,hours,Operated,Site A,Vibrator operation,Group,0,0,5,0,0,0,0,0
+LOG142,3/1/2026,Sunday,W9,26-Mar,Work,Excavation Repair,13,m,Completed,Site A,Trench repair,Group,0,0,0,0,10400,0,0,0
+LOG143,3/1/2026,Sunday,W9,26-Mar,Operations,Wall Casting,34,m,Used,Site A,Wall casting,Group,0,0,0,0,0,0,34000,0
+LOG144,3/1/2026,Sunday,W9,26-Mar,Operations,Cement Used,13.5,bags,Used,Site A,Wall casting,Group,0,0,0,0,0,0,0,0
+LOG145,3/1/2026,Sunday,W9,26-Mar,Operations,Water Supply,10,trips,Used,Site A,Wall casting,Group,0,0,0,0,0,0,0,10000
+LOG146,3/1/2026,Sunday,W9,26-Mar,Cost,Labour Cost,10000,NGN,Paid,Site A,Labour for wall casting,Group,10000,0,0,0,0,0,0,0
+LOG147,3/1/2026,Sunday,W9,26-Mar,Equipment,Concrete Mixer,5,hours,Operated,Site A,Mixer operation,Group,0,5,0,0,0,0,0,0
+LOG148,3/1/2026,Sunday,W9,26-Mar,Equipment,Concrete Vibrator,3,hours,Operated,Site A,Vibrator operation,Group,0,0,3,0,0,0,0,0
+LOG149,3/2/2026,Monday,W10,26-Mar,Work,Excavation Repair,50,m,Completed,Site A,Trench repair,Group,0,0,0,0,40000,0,0,0
+LOG150,3/2/2026,Monday,W10,26-Mar,Operations,Wall Casting,41,m,Used,Site A,Wall casting,Group,0,0,0,0,0,0,41000,0
+LOG151,3/2/2026,Monday,W10,26-Mar,Operations,Cement Used,26,bags,Used,Site A,Wall casting,Group,0,0,0,0,0,0,0,0
+LOG152,3/2/2026,Monday,W10,26-Mar,Operations,Water Supply,19,trips,Used,Site A,Wall casting,Group,0,0,0,0,0,0,0,19000
+LOG153,3/2/2026,Monday,W10,26-Mar,Operations,Granite,1,trip,Used,Site A,Aggregate,Group,0,0,0,0,0,0,0,0
+LOG154,3/2/2026,Monday,W10,26-Mar,Operations,Sharp Sand,1,trip,Used,Site A,Pickup,Group,0,0,0,0,0,0,0,0
+LOG155,3/2/2026,Monday,W10,26-Mar,Cost,Labour Cost,14000,NGN,Paid,Site A,Labour for wall casting,Group,14000,0,0,0,0,0,0,0
+LOG156,3/2/2026,Monday,W10,26-Mar,Equipment,Concrete Mixer,6,hours,Operated,Site A,Mixer operation,Group,0,6,0,0,0,0,0,0
+LOG157,3/2/2026,Monday,W10,26-Mar,Equipment,Concrete Vibrator,4,hours,Operated,Site A,Vibrator operation,Group,0,0,4,0,0,0,0,0
+LOG158,3/3/2026,Tuesday,W10,26-Mar,Work,Excavation Repair,40,m,Completed,Site A,Trench repair,Group,0,0,0,0,32000,0,0,0
+LOG159,3/3/2026,Tuesday,W10,26-Mar,Operations,Wall Casting,22,m,Used,Site A,Wall casting & access slab,Group,0,0,0,0,0,0,22000,0
+LOG160,3/3/2026,Tuesday,W10,26-Mar,Operations,Cement Used,17,bags,Used,Site A,Wall casting & access slab,Group,0,0,0,0,0,0,0,0
+LOG161,3/3/2026,Tuesday,W10,26-Mar,Operations,Water Supply,9,trips,Used,Site A,Wall casting,Group,0,0,0,0,0,0,0,9000
+LOG162,3/3/2026,Tuesday,W10,26-Mar,Cost,Labour Cost,10000,NGN,Paid,Site A,Labour for wall casting,Group,10000,0,0,0,0,0,0,0
+LOG163,3/3/2026,Tuesday,W10,26-Mar,Equipment,Concrete Mixer,5,hours,Operated,Site A,Mixer operation,Group,0,5,0,0,0,0,0,0
+LOG164,3/3/2026,Tuesday,W10,26-Mar,Equipment,Concrete Vibrator,3,hours,Operated,Site A,Vibrator operation,Group,0,0,3,0,0,0,0,0
+LOG165,3/3/2026,Tuesday,W10,26-Mar,Adjustment,Excavation,20.4,m,Completed,Site B,Engineer reconciliation (add),Group,0,0,0,0,20400,0,0,0
+LOG166,3/4/2026,Wednesday,W10,26-Mar,Work,Excavation Repair,98,m,Completed,Site B,Trench repair,Group,0,0,0,0,98000,0,0,0
+LOG167,3/4/2026,Wednesday,W10,26-Mar,Operations,Base Casting,95.5,m,Used,Site B,Base casting activities,Group,0,0,0,0,0,47750,0,0
+LOG168,3/4/2026,Wednesday,W10,26-Mar,Operations,Cement Used,21,bags,Used,Site B,Base casting,Group,0,0,0,0,0,0,0,0
+LOG169,3/4/2026,Wednesday,W10,26-Mar,Operations,Water Supply,15,trips,Used,Site B,Base casting,Group,0,0,0,0,0,0,0,15000
+LOG170,3/4/2026,Wednesday,W10,26-Mar,Operations,Sharp Sand,3,trips,Used,Site B,Howo,Group,0,0,0,0,0,0,0,0
+LOG171,3/4/2026,Wednesday,W10,26-Mar,Cost,Labour Cost,18000,NGN,Paid,Site B,Labour for base casting,Group,18000,0,0,0,0,0,0,0
+LOG172,3/4/2026,Wednesday,W10,26-Mar,Equipment,Concrete Mixer,7,hours,Operated,Site B,Mixer operation,Group,0,7,0,0,0,0,0,0
+LOG173,3/4/2026,Wednesday,W10,26-Mar,Equipment,Concrete Vibrator,5,hours,Operated,Site B,Vibrator operation,Group,0,0,5,0,0,0,0,0
+LOG174,3/5/2026,Thursday,W10,26-Mar,Work,Excavation Repair,4,m,Completed,Site B,Trench repair,Group,0,0,0,0,4000,0,0,0
+LOG175,3/5/2026,Thursday,W10,26-Mar,Operations,Base Casting,116.5,m,Used,Site B,Base casting activities,Group,0,0,0,0,0,58250,0,0
+LOG176,3/5/2026,Thursday,W10,26-Mar,Operations,Cement Used,19.5,bags,Used,Site B,Base casting,Group,0,0,0,0,0,0,0,0
+LOG177,3/5/2026,Thursday,W10,26-Mar,Operations,Water Supply,15,trips,Used,Site B,Base casting,Group,0,0,0,0,0,0,0,15000
+LOG178,3/5/2026,Thursday,W10,26-Mar,Cost,Labour Cost,20000,NGN,Paid,Site B,Labour for base casting,Group,20000,0,0,0,0,0,0,0
+LOG179,3/5/2026,Thursday,W10,26-Mar,Equipment,Concrete Mixer,7,hours,Operated,Site B,Mixer operation,Group,0,7,0,0,0,0,0,0
+LOG180,3/5/2026,Thursday,W10,26-Mar,Equipment,Concrete Vibrator,5,hours,Operated,Site B,Vibrator operation,Group,0,0,5,0,0,0,0,0
+LOG181,3/6/2026,Friday,W10,26-Mar,Material,Cement Delivered,500,bags,Delivered,Site B,Additional cement delivery,Group,0,0,0,0,0,0,0,0
+LOG182,3/6/2026,Friday,W10,26-Mar,Material,Cement Missing,2,bags,Missing,Site B,Stolen cement,Personal,0,0,0,0,0,0,0,0
+LOG183,3/6/2026,Friday,W10,26-Mar,Operations,Base Casting,120,m,Used,Site B,Base casting activities,Group,0,0,0,0,0,60000,0,0
+LOG184,3/6/2026,Friday,W10,26-Mar,Operations,Cement Used,22,bags,Used,Site B,Base casting,Group,0,0,0,0,0,0,0,0
+LOG185,3/6/2026,Friday,W10,26-Mar,Operations,Water Supply,18,trips,Used,Site B,Base casting,Group,0,0,0,0,0,0,0,18000
+LOG186,3/6/2026,Friday,W10,26-Mar,Cost,Labour Cost,20000,NGN,Paid,Site B,Labour for base casting,Group,20000,0,0,0,0,0,0,0
+LOG187,3/6/2026,Friday,W10,26-Mar,Equipment,Concrete Mixer,7,hours,Operated,Site B,Mixer operation,Group,0,7,0,0,0,0,0,0
+LOG188,3/6/2026,Friday,W10,26-Mar,Equipment,Concrete Vibrator,5,hours,Operated,Site B,Vibrator operation,Group,0,0,5,0,0,0,0,0
+LOG189,3/7/2026,Saturday,W10,26-Mar,Operations,Wall Casting,57,m,Used,Site B,Wall casting,Group,0,0,0,0,0,0,57000,0
+LOG190,3/7/2026,Saturday,W10,26-Mar,Operations,Cement Used,30,bags,Used,Site B,Wall casting,Group,0,0,0,0,0,0,0,0
+LOG191,3/7/2026,Saturday,W10,26-Mar,Operations,Water Supply,22,trips,Used,Site B,Wall casting,Group,0,0,0,0,0,0,0,22000
+LOG192,3/7/2026,Saturday,W10,26-Mar,Cost,Labour Cost,16000,NGN,Paid,Site B,Labour for wall casting,Group,16000,0,0,0,0,0,0,0
+LOG193,3/7/2026,Saturday,W10,26-Mar,Equipment,Concrete Mixer,7,hours,Operated,Site B,Mixer operation,Group,0,7,0,0,0,0,0,0
+LOG194,3/7/2026,Saturday,W10,26-Mar,Equipment,Concrete Vibrator,5,hours,Operated,Site B,Vibrator operation,Group,0,0,5,0,0,0,0,0
+LOG195,3/8/2026,Sunday,W10,26-Mar,Operations,Wall Casting,63,m,Used,Site B,Wall casting,Group,0,0,0,0,0,0,63000,0
+LOG196,3/8/2026,Sunday,W10,26-Mar,Operations,Cement Used,30.5,bags,Used,Site B,Wall casting,Group,0,0,0,0,0,0,0,0
+LOG197,3/8/2026,Sunday,W10,26-Mar,Operations,Water Supply,21,trips,Used,Site B,Wall casting,Group,0,0,0,0,0,0,0,21000
+LOG198,3/8/2026,Sunday,W10,26-Mar,Cost,Labour Cost,18000,NGN,Paid,Site B,Labour for wall casting,Group,18000,0,0,0,0,0,0,0
+LOG199,3/8/2026,Sunday,W10,26-Mar,Equipment,Concrete Mixer,7,hours,Operated,Site B,Mixer operation,Group,0,7,0,0,0,0,0,0
+LOG200,3/8/2026,Sunday,W10,26-Mar,Equipment,Concrete Vibrator,5,hours,Operated,Site B,Vibrator operation,Group,0,0,5,0,0,0,0,0
+LOG201,3/9/2026,Monday,W11,26-Mar,Work,Excavation Repair,35,m,Completed,Site B,Trench repair,Group,0,0,0,0,35000,0,0,0
+LOG202,3/9/2026,Monday,W11,26-Mar,Work,Excavation,13,m,Completed,Site B,New excavation,Group,0,0,0,0,13000,0,0,0
+LOG203,3/9/2026,Monday,W11,26-Mar,Operations,Wall Casting,60.8,m,Used,Site B,Wall casting,Group,0,0,0,0,0,0,60800,0
+LOG204,3/9/2026,Monday,W11,26-Mar,Operations,Cement Used,28.5,bags,Used,Site B,Wall casting,Group,0,0,0,0,0,0,0,0
+LOG205,3/9/2026,Monday,W11,26-Mar,Operations,Water Supply,18,trips,Used,Site B,Wall casting,Group,0,0,0,0,0,0,0,18000
+LOG206,3/9/2026,Monday,W11,26-Mar,Operations,Sharp Sand,3,trips,Used,Site B,Pickup,Group,0,0,0,0,0,0,0,0
+LOG207,3/9/2026,Monday,W11,26-Mar,Cost,Labour Cost,16000,NGN,Paid,Site B,Labour for wall casting,Group,16000,0,0,0,0,0,0,0
+LOG208,3/9/2026,Monday,W11,26-Mar,Equipment,Concrete Mixer,7,hours,Operated,Site B,Mixer operation,Group,0,7,0,0,0,0,0,0
+LOG209,3/9/2026,Monday,W11,26-Mar,Equipment,Concrete Vibrator,5,hours,Operated,Site B,Vibrator operation,Group,0,0,5,0,0,0,0,0
+LOG210,3/10/2026,Tuesday,W11,26-Mar,Operations,Base Casting,47,m,Used,Site B,Base casting activities,Group,0,0,0,0,0,23500,0,0
+LOG211,3/10/2026,Tuesday,W11,26-Mar,Operations,Wall Casting,31.1,m,Used,Site B,Wall casting,Group,0,0,0,0,0,0,31100,0
+LOG212,3/10/2026,Tuesday,W11,26-Mar,Operations,Cement Used,27.5,bags,Used,Site B,Wall- base- culvert,Group,0,0,0,0,0,0,0,0
+LOG213,3/10/2026,Tuesday,W11,26-Mar,Operations,Water Supply,16,trips,Used,Site B,Wall- base- culvert,Group,0,0,0,0,0,0,0,16000
+LOG214,3/10/2026,Tuesday,W11,26-Mar,Cost,Labour Cost,14000,NGN,Paid,Site B,Labour for base & wall,Group,14000,0,0,0,0,0,0,0
+LOG215,3/10/2026,Tuesday,W11,26-Mar,Equipment,Concrete Mixer,6,hours,Operated,Site B,Mixer operation,Group,0,6,0,0,0,0,0,0
+LOG216,3/10/2026,Tuesday,W11,26-Mar,Equipment,Concrete Vibrator,4,hours,Operated,Site B,Vibrator operation,Group,0,0,4,0,0,0,0,0
+LOG217,3/11/2026,Wednesday,W11,26-Mar,Operations,Wall Casting,66,m,Used,Site B,Wall casting,Group,0,0,0,0,0,0,66000,0
+LOG218,3/11/2026,Wednesday,W11,26-Mar,Operations,Cement Used,41,bags,Used,Site B,Wall casting,Group,0,0,0,0,0,0,0,0
+LOG219,3/11/2026,Wednesday,W11,26-Mar,Operations,Water Supply,22,trips,Used,Site B,Wall casting,Group,0,0,0,0,0,0,0,22000
+LOG220,3/11/2026,Wednesday,W11,26-Mar,Cost,Labour Cost,18000,NGN,Paid,Site B,Labour for wall casting,Group,18000,0,0,0,0,0,0,0
+LOG221,3/11/2026,Wednesday,W11,26-Mar,Equipment,Concrete Mixer,7,hours,Operated,Site B,Mixer operation,Group,0,7,0,0,0,0,0,0
+LOG222,3/11/2026,Wednesday,W11,26-Mar,Equipment,Concrete Vibrator,5,hours,Operated,Site B,Vibrator operation,Group,0,0,5,0,0,0,0,0
+LOG223,3/12/2026,Thursday,W11,26-Mar,Operations,Base Casting,45.5,m,Used,Site B,Base casting activities,Group,0,0,0,0,0,22750,0,0
+LOG224,3/12/2026,Thursday,W11,26-Mar,Operations,Cement Used,18.5,bags,Used,Site B,Base casting,Group,0,0,0,0,0,0,0,0
+LOG225,3/12/2026,Thursday,W11,26-Mar,Operations,Water Supply,13,trips,Used,Site B,Base casting,Group,0,0,0,0,0,0,0,13000
+LOG226,3/12/2026,Thursday,W11,26-Mar,Cost,Labour Cost,14000,NGN,Paid,Site B,Labour for base casting,Group,14000,0,0,0,0,0,0,0
+LOG227,3/12/2026,Thursday,W11,26-Mar,Equipment,Concrete Mixer,7,hours,Operated,Site B,Mixer operation,Group,0,7,0,0,0,0,0,0
+LOG228,3/12/2026,Thursday,W11,26-Mar,Equipment,Concrete Vibrator,5,hours,Operated,Site B,Vibrator operation,Group,0,0,5,0,0,0,0,0
+LOG229,3/13/2026,Friday,W11,26-Mar,Operations,Base Casting,57.6,m,Used,Site B,Base casting activities,Group,0,0,0,0,0,28800,0,0
+LOG230,3/13/2026,Friday,W11,26-Mar,Operations,Cement Used,11.5,bags,Used,Site B,Base casting,Group,0,0,0,0,0,0,0,0
+LOG231,3/13/2026,Friday,W11,26-Mar,Operations,Water Supply,9,trips,Used,Site B,Base casting,Group,0,0,0,0,0,0,0,9000
+LOG232,3/13/2026,Friday,W11,26-Mar,Cost,Labour Cost,10000,NGN,Paid,Site B,Labour for base casting,Group,10000,0,0,0,0,0,0,0
+LOG233,3/13/2026,Friday,W11,26-Mar,Equipment,Concrete Mixer,6,hours,Operated,Site B,Mixer operation,Group,0,6,0,0,0,0,0,0
+LOG234,3/13/2026,Friday,W11,26-Mar,Equipment,Concrete Vibrator,4,hours,Operated,Site B,Vibrator operation,Group,0,0,4,0,0,0,0,0
+LOG235,3/14/2026,Saturday,W11,26-Mar,Work,Excavation Repair,4.5,m,Completed,Site B,Culvert trench,Group,0,0,0,0,4500,0,0,0
+LOG236,3/14/2026,Saturday,W11,26-Mar,Operations,Base Casting,36,m,Used,Site B,Base casting activities,Group,0,0,0,0,0,18000,0,0
+LOG237,3/14/2026,Saturday,W11,26-Mar,Operations,Cement Used,21.5,bags,Used,Site B,Base & culvert base,Group,0,0,0,0,0,0,0,0
+LOG238,3/14/2026,Saturday,W11,26-Mar,Operations,Water Supply,11,trips,Used,Site B,Base & culvert base,Group,0,0,0,0,0,0,0,11000
+LOG239,3/14/2026,Saturday,W11,26-Mar,Cost,Labour Cost,12000,NGN,Paid,Site B,Labour for base casting,Group,12000,0,0,0,0,0,0,0
+LOG240,3/14/2026,Saturday,W11,26-Mar,Equipment,Concrete Mixer,5,hours,Operated,Site B,Mixer operation,Group,0,5,0,0,0,0,0,0
+LOG241,3/14/2026,Saturday,W11,26-Mar,Equipment,Concrete Vibrator,3,hours,Operated,Site B,Vibrator operation,Group,0,0,3,0,0,0,0,0
+LOG242,3/15/2026,Sunday,W11,26-Mar,Operations,Wall Casting,48.8,m,Used,Site B,Wall casting,Group,0,0,0,0,0,0,48800,0
+LOG243,3/15/2026,Sunday,W11,26-Mar,Operations,Cement Used,28,bags,Used,Site B,Wall casting,Group,0,0,0,0,0,0,0,0
+LOG244,3/15/2026,Sunday,W11,26-Mar,Operations,Water Supply,13,trips,Used,Site B,Wall casting,Group,0,0,0,0,0,0,0,13000
+LOG245,3/15/2026,Sunday,W11,26-Mar,Operations,Sharp Sand,8,trips,Used,Site B,Pickup,Group,0,0,0,0,0,0,0,0
+LOG246,3/15/2026,Sunday,W11,26-Mar,Cost,Labour Cost,16000,NGN,Paid,Site B,Labour for wall casting,Group,16000,0,0,0,0,0,0,0
+LOG247,3/15/2026,Sunday,W11,26-Mar,Equipment,Concrete Mixer,6,hours,Operated,Site B,Mixer operation,Group,0,6,0,0,0,0,0,0
+LOG248,3/15/2026,Sunday,W11,26-Mar,Equipment,Concrete Vibrator,4,hours,Operated,Site B,Vibrator operation,Group,0,0,4,0,0,0,0,0
+LOG249,3/16/2026,Monday,W12,26-Mar,Operations,Wall Casting,27.4,m,Used,Site B,Wall casting,Group,0,0,0,0,0,0,27400,0
+LOG250,3/16/2026,Monday,W12,26-Mar,Operations,Cement Used,25,bags,Used,Site B,Wall & culvert wall,Group,0,0,0,0,0,0,0,0
+LOG251,3/16/2026,Monday,W12,26-Mar,Operations,Water Supply,11,trips,Used,Site B,Wall & culvert,Group,0,0,0,0,0,0,0,11000
+LOG252,3/16/2026,Monday,W12,26-Mar,Operations,Sharp Sand,3,trips,Used,Site B,Pickup,Group,0,0,0,0,0,0,0,0
+LOG253,3/16/2026,Monday,W12,26-Mar,Cost,Labour Cost,12000,NGN,Paid,Site B,Labour for wall casting,Group,12000,0,0,0,0,0,0,0
+LOG254,3/16/2026,Monday,W12,26-Mar,Equipment,Concrete Mixer,5,hours,Operated,Site B,Mixer operation,Group,0,5,0,0,0,0,0,0
+LOG255,3/16/2026,Monday,W12,26-Mar,Equipment,Concrete Vibrator,3,hours,Operated,Site B,Vibrator operation,Group,0,0,3,0,0,0,0,0
+LOG256,3/17/2026,Tuesday,W12,26-Mar,Operations,Wall Casting,20.5,m,Used,Site B,Wall casting,Group,0,0,0,0,0,0,20500,0
+LOG257,3/17/2026,Tuesday,W12,26-Mar,Operations,Cement Used,28,bags,Used,Site B,Wall & culvert deck,Group,0,0,0,0,0,0,0,0
+LOG258,3/17/2026,Tuesday,W12,26-Mar,Operations,Water Supply,10,trips,Used,Site B,Wall & culvert,Group,0,0,0,0,0,0,0,10000
+LOG259,3/17/2026,Tuesday,W12,26-Mar,Cost,Labour Cost,12000,NGN,Paid,Site B,Labour for wall casting,Group,12000,0,0,0,0,0,0,0
+LOG260,3/17/2026,Tuesday,W12,26-Mar,Equipment,Concrete Mixer,5,hours,Operated,Site B,Mixer operation,Group,0,5,0,0,0,0,0,0
+LOG261,3/17/2026,Tuesday,W12,26-Mar,Equipment,Concrete Vibrator,3,hours,Operated,Site B,Vibrator operation,Group,0,0,3,0,0,0,0,0
+LOG262,3/28/2026,Saturday,W13,26-Mar,Operations,Wall Casting,50.5,m,Used,Site B,Wall casting,Group,0,0,0,0,0,0,50500,0
+LOG263,3/28/2026,Saturday,W13,26-Mar,Operations,Cement Used,20.5,bags,Used,Site B,Wall casting,Group,0,0,0,0,0,0,0,0
+LOG264,3/28/2026,Saturday,W13,26-Mar,Operations,Water Supply,15,trips,Used,Site B,Wall casting,Group,0,0,0,0,0,0,0,15000
+LOG265,3/28/2026,Saturday,W13,26-Mar,Cost,Labour Cost,14000,NGN,Paid,Site B,Labour for wall casting,Group,14000,0,0,0,0,0,0,0
+LOG266,3/28/2026,Saturday,W13,26-Mar,Equipment,Concrete Mixer,6,hours,Operated,Site B,Mixer operation,Group,0,6,0,0,0,0,0,0
+LOG267,3/28/2026,Saturday,W13,26-Mar,Equipment,Concrete Vibrator,4,hours,Operated,Site B,Vibrator operation,Group,0,0,4,0,0,0,0,0
+LOG268,3/29/2026,Sunday,W13,26-Mar,Operations,Wall Casting,51,m,Used,Site B,Wall casting,Group,0,0,0,0,0,0,51000,0
+LOG269,3/29/2026,Sunday,W13,26-Mar,Operations,Cement Used,21,bags,Used,Site B,Wall casting,Group,0,0,0,0,0,0,0,0
+LOG270,3/29/2026,Sunday,W13,26-Mar,Operations,Water Supply,13,trips,Used,Site B,Wall casting,Group,0,0,0,0,0,0,0,13000
+LOG271,3/29/2026,Sunday,W13,26-Mar,Cost,Labour Cost,14000,NGN,Paid,Site B,Labour for wall casting,Group,14000,0,0,0,0,0,0,0
+LOG272,3/29/2026,Sunday,W13,26-Mar,Equipment,Concrete Mixer,6,hours,Operated,Site B,Mixer operation,Group,0,6,0,0,0,0,0,0
+LOG273,3/29/2026,Sunday,W13,26-Mar,Equipment,Concrete Vibrator,4,hours,Operated,Site B,Vibrator operation,Group,0,0,4,0,0,0,0,0
+LOG274,3/30/2026,Monday,W14,26-Mar,Operations,Wall Casting,50.2,m,Used,Site B,Wall casting,Group,0,0,0,0,0,0,50200,0
+LOG275,3/30/2026,Monday,W14,26-Mar,Operations,Cement Used,23.5,bags,Used,Site B,Wall casting,Group,0,0,0,0,0,0,0,0
+LOG276,3/30/2026,Monday,W14,26-Mar,Operations,Water Supply,15,trips,Used,Site B,Wall casting,Group,0,0,0,0,0,0,0,15000
+LOG277,3/30/2026,Monday,W14,26-Mar,Cost,Labour Cost,14000,NGN,Paid,Site B,Labour for wall casting,Group,14000,0,0,0,0,0,0,0
+LOG278,3/30/2026,Monday,W14,26-Mar,Equipment,Concrete Mixer,6,hours,Operated,Site B,Mixer operation,Group,0,6,0,0,0,0,0,0
+LOG279,3/30/2026,Monday,W14,26-Mar,Equipment,Concrete Vibrator,4,hours,Operated,Site B,Vibrator operation,Group,0,0,4,0,0,0,0,0
+LOG280,3/31/2026,Tuesday,W14,26-Mar,Work,Excavation Repair,12,m,Completed,Site B,Trench excavation,Group,0,0,0,0,12000,0,0,0
+LOG281,3/31/2026,Tuesday,W14,26-Mar,Operations,Base Casting,21.4,m,Used,Site B,Base casting activities,Group,0,0,0,0,0,10700,0,0
+LOG282,3/31/2026,Tuesday,W14,26-Mar,Operations,Wall Casting,50,m,Used,Site B,Wall casting,Group,0,0,0,0,0,0,50000,0
+LOG283,3/31/2026,Tuesday,W14,26-Mar,Operations,Cement Used,28.5,bags,Used,Site B,Wall & base casting,Group,0,0,0,0,0,0,0,0
+LOG284,3/31/2026,Tuesday,W14,26-Mar,Operations,Water Supply,15,trips,Used,Site B,Wall & base casting,Group,0,0,0,0,0,0,0,15000
+LOG285,3/31/2026,Tuesday,W14,26-Mar,Cost,Labour Cost,16000,NGN,Paid,Site B,Labour for base & wall,Group,16000,0,0,0,0,0,0,0
+LOG286,3/31/2026,Tuesday,W14,26-Mar,Equipment,Concrete Mixer,6,hours,Operated,Site B,Mixer operation,Group,0,6,0,0,0,0,0,0
+LOG287,3/31/2026,Tuesday,W14,26-Mar,Equipment,Concrete Vibrator,4,hours,Operated,Site B,Vibrator operation,Group,0,0,4,0,0,0,0,0
+LOG288,4/1/2026,Wednesday,W14,26-Apr,Operations,Wall Casting,10.4,m,Used,Site B,Wall casting,Group,0,0,0,0,0,0,10400,0
+LOG289,4/1/2026,Wednesday,W14,26-Apr,Operations,Cement Used,9,bags,Used,Site B,Wall & culvert apron,Group,0,0,0,0,0,0,0,0
+LOG290,4/1/2026,Wednesday,W14,26-Apr,Operations,Water Supply,5,trips,Used,Site B,Culvert & wall,Group,0,0,0,0,0,0,0,5000
+LOG291,4/1/2026,Wednesday,W14,26-Apr,Cost,Labour Cost,8000,NGN,Paid,Site B,Labour for wall casting,Group,8000,0,0,0,0,0,0,0
+LOG292,4/1/2026,Wednesday,W14,26-Apr,Equipment,Concrete Mixer,4,hours,Operated,Site B,Mixer operation,Group,0,4,0,0,0,0,0,0
+LOG293,4/1/2026,Wednesday,W14,26-Apr,Equipment,Concrete Vibrator,3,hours,Operated,Site B,Vibrator operation,Group,0,0,3,0,0,0,0,0
+LOG294,4/2/2026,Thursday,W14,26-Apr,Operations,Cement Used,13,bags,Used,Site B,Culvert wing wall,Group,0,0,0,0,0,0,0,0
+LOG295,4/2/2026,Thursday,W14,26-Apr,Operations,Water Supply,6,trips,Used,Site B,Culvert wing wall,Group,0,0,0,0,0,0,0,6000
+LOG296,4/2/2026,Thursday,W14,26-Apr,Cost,Labour Cost,8000,NGN,Paid,Site B,Labour for culvert,Group,8000,0,0,0,0,0,0,0
+LOG297,4/2/2026,Thursday,W14,26-Apr,Equipment,Concrete Mixer,4,hours,Operated,Site B,Mixer operation,Group,0,4,0,0,0,0,0,0
+LOG298,4/2/2026,Thursday,W14,26-Apr,Equipment,Concrete Vibrator,3,hours,Operated,Site B,Vibrator operation,Group,0,0,3,0,0,0,0,0
+LOG299,4/3/2026,Friday,W14,26-Apr,Operations,Cement Used,6.5,bags,Used,Site B,Culvert & slab,Group,0,0,0,0,0,0,0,0
+LOG300,4/3/2026,Friday,W14,26-Apr,Operations,Water Supply,9,trips,Used,Site B,Culvert & slab,Group,0,0,0,0,0,0,0,9000
+LOG301,4/3/2026,Friday,W14,26-Apr,Operations,Sharp Sand,7,trips,Used,Site B,Additional to reach 34 total,Group,0,0,0,0,0,0,0,0
+LOG302,4/3/2026,Friday,W14,26-Apr,Cost,Labour Cost,8000,NGN,Paid,Site B,Labour for culvert,Group,8000,0,0,0,0,0,0,0
+LOG303,4/3/2026,Friday,W14,26-Apr,Equipment,Concrete Mixer,4,hours,Operated,Site B,Mixer operation,Group,0,4,0,0,0,0,0,0
+LOG304,4/3/2026,Friday,W14,26-Apr,Equipment,Concrete Vibrator,3,hours,Operated,Site B,Vibrator operation,Group,0,0,3,0,0,0,0,0
+LOG305,4/4/2026,Saturday,W14,26-Apr,Operations,Base Casting,6,m,Used,Site B,Base casting activities,Group,0,0,0,0,0,3000,0,0
+LOG306,4/4/2026,Saturday,W14,26-Apr,Operations,Cement Used,11,bags,Used,Site B,Base & maintenance,Group,0,0,0,0,0,0,0,0
+LOG307,4/4/2026,Saturday,W14,26-Apr,Operations,Water Supply,4,trips,Used,Site B,Base & maintenance,Group,0,0,0,0,0,0,0,4000
+LOG308,4/4/2026,Saturday,W14,26-Apr,Operations,Sharp Sand,3,trips,Used,Site B,Purchased,Group,0,0,0,0,0,0,0,0
+LOG309,4/4/2026,Saturday,W14,26-Apr,Cost,Labour Cost,6000,NGN,Paid,Site B,Labour for base casting,Group,6000,0,0,0,0,0,0,0
+LOG310,4/4/2026,Saturday,W14,26-Apr,Equipment,Concrete Mixer,3,hours,Operated,Site B,Mixer operation,Group,0,3,0,0,0,0,0,0
+LOG311,4/4/2026,Saturday,W14,26-Apr,Equipment,Concrete Vibrator,2,hours,Operated,Site B,Vibrator operation,Group,0,0,2,0,0,0,0,0
+LOG312,4/5/2026,Sunday,W14,26-Apr,Operations,Cement Used,10,bags,Used,Site B,Slab casting,Group,0,0,0,0,0,0,0,0
+LOG313,4/5/2026,Sunday,W14,26-Apr,Operations,Water Supply,5,trips,Used,Site B,Slab casting,Group,0,0,0,0,0,0,0,5000
+LOG314,4/5/2026,Sunday,W14,26-Apr,Operations,Sharp Sand,3,trips,Used,Site B,Pickup,Group,0,0,0,0,0,0,0,0
+LOG315,4/5/2026,Sunday,W14,26-Apr,Cost,Labour Cost,8000,NGN,Paid,Site B,Labour for slab casting,Group,8000,0,0,0,0,0,0,0
+LOG316,4/5/2026,Sunday,W14,26-Apr,Equipment,Concrete Mixer,4,hours,Operated,Site B,Mixer operation,Group,0,4,0,0,0,0,0,0
+LOG317,4/5/2026,Sunday,W14,26-Apr,Equipment,Concrete Vibrator,3,hours,Operated,Site B,Vibrator operation,Group,0,0,3,0,0,0,0,0
+LOG318,4/6/2026,Monday,W15,26-Apr,Operations,Wall Casting,6,m,Used,Site B,Wall casting,Group,0,0,0,0,0,0,6000,0
+LOG319,4/6/2026,Monday,W15,26-Apr,Operations,Cement Used,10.5,bags,Used,Site B,Wall casting,Group,0,0,0,0,0,0,0,0
+LOG320,4/6/2026,Monday,W15,26-Apr,Operations,Water Supply,5,trips,Used,Site B,Wall casting,Group,0,0,0,0,0,0,0,5000
+LOG321,4/6/2026,Monday,W15,26-Apr,Cost,Labour Cost,8000,NGN,Paid,Site B,Labour for wall casting,Group,8000,0,0,0,0,0,0,0
+LOG322,4/6/2026,Monday,W15,26-Apr,Equipment,Concrete Mixer,4,hours,Operated,Site B,Mixer operation,Group,0,4,0,0,0,0,0,0
+LOG323,4/6/2026,Monday,W15,26-Apr,Equipment,Concrete Vibrator,3,hours,Operated,Site B,Vibrator operation,Group,0,0,3,0,0,0,0,0
+LOG324,4/7/2026,Tuesday,W15,26-Apr,Operations,Cement Used,8.5,bags,Used,Site B,Maintenance,Group,0,0,0,0,0,0,0,0
+LOG325,4/7/2026,Tuesday,W15,26-Apr,Cost,Labour Cost,6000,NGN,Paid,Site B,Labour for maintenance,Group,6000,0,0,0,0,0,0,0
+LOG326,4/8/2026,Wednesday,W15,26-Apr,Operations,Cement Used,1.5,bags,Used,Site B,Curing,Group,0,0,0,0,0,0,0,0
+LOG327,4/8/2026,Wednesday,W15,26-Apr,Operations,Water Supply,0,trips,Used,Site B,Curing (no trips recorded),Group,0,0,0,0,0,0,0,0
+LOG328,4/8/2026,Wednesday,W15,26-Apr,Cost,Labour Cost,4000,NGN,Paid,Site B,Labour for curing,Group,4000,0,0,0,0,0,0,0
+LOG329,4/12/2026,Sunday,W15,26-Apr,Operations,Laterite,38,trips,Delivered,Road Section,Laterite bulk,Group,0,0,0,0,0,0,0,0
+LOG330,4/17/2026,Friday,W16,26-Apr,Operations,Laterite,23,trips,Delivered,Road Section,11 pickup +12 6-tyre,Group,0,0,0,0,0,0,0,0
+LOG331,4/17/2026,Friday,W16,26-Apr,Cost,Labour Cost,16000,NGN,Paid,Road Section,4 labours,Group,16000,0,0,0,0,0,0,0
+LOG332,4/18/2026,Saturday,W16,26-Apr,Operations,Laterite,2,trips,Delivered,Road Section,6-tyre truck,Group,0,0,0,0,0,0,0,0
+LOG333,4/18/2026,Saturday,W16,26-Apr,Operations,Stone Base,4,trips,Delivered,Site B,1st-4th trips,Group,0,0,0,0,0,0,0,0
+LOG334,4/18/2026,Saturday,W16,26-Apr,Operations,Granite,1,trip,Used,Road Section,Stone base (aggregate),Group,0,0,0,0,0,0,0,0
+LOG335,4/19/2026,Sunday,W16,26-Apr,Operations,Laterite,4,trips,Delivered,Road Section,Trips 1-4,Group,0,0,0,0,0,0,0,0
+LOG336,4/19/2026,Sunday,W16,26-Apr,Cost,Labour Cost,12000,NGN,Paid,Road Section,3 labours,Group,12000,0,0,0,0,0,0,0
+LOG337,4/20/2026,Monday,W17,26-Apr,Operations,Stone Base,4,trips,Delivered,Site B,1st-4th trips,Group,0,0,0,0,0,0,0,0
+LOG338,4/20/2026,Monday,W17,26-Apr,Cost,Labour Cost,12000,NGN,Paid,Road Section,3 labours,Group,12000,0,0,0,0,0,0,0
+LOG339,4/23/2026,Thursday,W17,26-Apr,Operations,Stone Base,1,trip,Delivered,Site B,Stone base trip,Group,0,0,0,0,0,0,0,0
+LOG340,4/28/2026,Tuesday,W18,26-Apr,Operations,Sharp Sand,1,trip,Used,Site B,Pickup,Group,0,0,0,0,0,0,0,0
+LOG341,4/28/2026,Tuesday,W18,26-Apr,Material,Cement Spillage,1,bags,Spilled,Main Store,Damaged/unrecoverable bag,Store Count,0,0,0,0,0,0,0,0
+LOG342,4/28/2026,Tuesday,W18,26-Apr,Material,Cement Remaining,4,bags,Remaining,Main Store,Final cement balance,Group,0,0,0,0,0,0,0,0
+LOG343,4/28/2026,Tuesday,W18,26-Apr,Material,Y8 Remaining,92,pcs,Remaining,Main Store,Remaining reinforcement,Group,0,0,0,0,0,0,0,0
+LOG344,4/28/2026,Tuesday,W18,26-Apr,Material,Y10 Remaining,25,pcs,Remaining,Main Store,Remaining reinforcement,Group,0,0,0,0,0,0,0,0
+LOG345,4/28/2026,Tuesday,W18,26-Apr,Material,Y16 Remaining,2,pcs,Remaining,Main Store,Remaining reinforcement,Group,0,0,0,0,0,0,0,0
+LOG346,4/28/2026,Tuesday,W18,26-Apr,Operations,Cement Used,10.5,bags,Used,Site B,Reconciliation adjustment to reach 909,Group,0,0,0,0,0,0,0,0
+LOG347,4/29/2026,Wednesday,W18,26-Apr,Operations,Water Supply,3,trips,Used,Site B,Corner casting,Group,0,0,0,0,0,0,0,3000
+LOG348,4/30/2026,Thursday,W18,26-Apr,Operations,Sharp Sand,1,trip,Used,Site B,Tricycle,Group,0,0,0,0,0,0,0,0

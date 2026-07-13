@@ -1,0 +1,886 @@
+# KWAYA KUSAR SITE - CONSTRUCTION LOG 
+# Dates formatted as YYYY-MM-DD. All events in 2026.
+
+## JANUARY 2026
+
+### 2026-01-27
+- Excavation of line drain: 125m @ ₦1,100 = ₦132,000
+- Removal of solar panels poles (4 nos): ₦16,000
+- Cutting of tree root: ₦4,000
+
+### 2026-01-28
+- Excavation: 170m @ ₦1,100 = ₦187,000 + ₦40,640 = ₦227,640
+- Bank charges: ₦1,500
+
+### 2026-01-29
+- Total previously excavated: 288.4m
+- Today's excavation: 165m
+- Cumulative: 453.4m
+
+### 2026-01-30
+- Previously: 453.4m
+- Today: 122.4m
+- Cumulative: 575.8m
+
+### 2026-01-31
+- Previously: 575.8m
+- Today: 169.6m
+- Cumulative: 745.4m
+
+## FEBRUARY 2026
+
+### 2026-02-01
+- Removal of trees
+- Excavation: previously 745.4m, today 64m, cumulative 809.4m
+
+### 2026-02-02
+- Excavation: previously 809.4m, today 152.5m, cumulative 961.9m
+
+### 2026-02-03
+- Travel expenses (Kwaya to Dubeli, Taraba State):
+  - Tp Kwaya to Gombe: ₦4,000
+  - Tp to Jalingo: ₦10,000
+  - Accommodation: ₦4,000
+  - Tp to Tella: ₦5,000
+  - Tp Tella to Mutunbiyu: ₦3,000
+  - Okada Tella to Dubeli: ₦1,000
+  - Rotimi & Haruna load okada to Dubeli: ₦500
+  - Accommodation: ₦3,000
+  - Rent fee at Dubeli store: ₦15,000
+  - Loading of goods: ₦15,000
+  - Total: ₦60,000
+
+### 2026-02-04
+- Excavation: previously 961.9m, today 17m, cumulative 978.9m
+
+### 2026-02-05
+- Excavation work:
+  - Culvert: 7m × 2.4m
+  - Apron: 1.5m × 2.8m
+
+### 2026-02-06
+- Excavation (chairman street) box culvert: ₦15,000
+- Repair of trenches (Chairman & INEC street): ₦17,000
+- Transportation for carpenter to/from Biu: ₦3,000
+- PHCN bill for apartment: ₦8,000
+
+### 2026-02-07
+- Purchase of 3 jerricans for water storage: ₦9,000
+- Purchase of 1 bucket: ₦2,000
+- Construction of bender table: ₦1,000
+- Purchase of 1 timber for bender table: ₦6,500
+- Total: ₦18,500
+
+### 2026-02-08
+- Excavation and repair of trenches: 69m × ₦100 = ₦6,900
+- PHCN bill: ₦8,000
+- Bank charges: ₦300
+- Total: ₦15,200
+- Reinforced bars stock:
+  - Y10: used 135, balance 267, stock 402
+  - Y8: used 35, balance 805, stock 840
+  - 5 baskets achieved
+
+### 2026-02-09
+- Purchase of 10m power tape: ₦5,000
+- Purchase of 2 digger handles + sharpening: ₦2,000
+- Repair of excavated trenches: 120m × ₦100 = ₦12,000
+- Iron Bender IOU: ₦50,000
+- Bank charges: ₦1,400
+- Total: ₦71,000
+- Reinforced bars:
+  - Y10: used nil, balance 267
+  - Y8: used 84, balance 721
+  - 12 baskets today, cumulative 17 baskets
+
+### 2026-02-10
+- Repair of excavated trenches: 33m × ₦100 = ₦3,300
+- Transportation: ₦200
+- Carpenter IOU: ₦5,000
+- Bank charges: ₦200
+- Total: ₦8,700
+- Reinforced bars:
+  - Y8: used 56, balance 665
+  - 8 baskets today, cumulative 25 baskets
+
+### 2026-02-11
+- Repair of excavated trenches: 44m × ₦100 = ₦4,400
+- 1 kuskus: ₦1,000
+- Bank charges: ₦100
+- Total: ₦5,500
+
+### 2026-02-12
+- Reinforced bars:
+  - Y10: used 60, balance 207
+  - Y8: used 77, balance 588? Wait, previous balance 665? Actually entry says balance 665 (typo, should be 588 after 77 used) Let's keep as recorded: 665.
+  - 11 baskets today, cumulative 36 baskets
+- Repair and excavation trenches: 53m × ₦100 = ₦5,300
+- 1 kuskus: ₦1,000
+- Offloading of cement: 450 bags @ ₦50 = ₦22,500
+- Bank charges: ₦400
+- Total: ₦29,200
+
+### 2026-02-13
+- No basket produced
+- Low activities, bender took permission for wedding
+
+### 2026-02-14
+- Reinforced bars:
+  - Y10: used 20, balance 187
+  - Y8: nil
+  - No baskets, cumulative still 36
+
+### 2026-02-15
+- Reinforced bars:
+  - Y10: used 115, balance 72
+  - Y8: used 7, balance 588? Actually previous Y8 balance 665? Inconsistent. Keep as recorded: balance 588.
+  - 1 basket today, cumulative 37 baskets
+
+### 2026-02-16
+- **CEMENT DELIVERY**: First batch of cement in store – total 450 bags (delivery date not known, recorded this day)
+- Casting of base: 40m × ₦500 = ₦20,000
+- Water supplied: 9 trips × ₦1,000 = ₦9,000
+- Transportation to inspect aggregate: ₦2,000
+- Hiring of 1 drum: ₦500
+- Hiring of 1 wheel barrow: ₦1,000
+- Repairing of existing wheel barrow: ₦1,300
+- Transportation of 140 lengths of 8mm and 700 u bars: ₦8,000
+- Concrete mixer: ₦30,000
+- Bank charges: ₦800
+- Total: ₦72,600
+- Today's baskets (base casting): 3.6 units
+
+### 2026-02-17
+- Casting of base: 84m × ₦500 = ₦42,000
+- Welding of 3 shovels: ₦3,000
+- Welding and repair of another wheel barrow: ₦5,000
+- Purchase of 2 plastic paint: ₦5,000
+- Transportation of Y8 (119) & 360 u bars: ₦4,000
+- Concrete mixer: ₦30,000
+- Water supplied: ₦15,000
+- Hiring of wheel barrow: ₦1,000
+- Hiring of drum: ₦500
+- Bank charges: ₦1,500
+- Total: ₦107,000
+- Today's baskets: 7.5 units
+- Reinforced bars:
+  - Y10: used 15, balance 57
+  - Y8: used 171, balance 270
+  - 18 baskets today, cumulative 75 baskets
+
+### 2026-02-18
+- White rubber paint (5 × ₦4,000) = ₦20,000
+- Drum (2) = ₦70,000
+- Shovel (2) = ₦14,000
+- Buying frame, repair & fixing of wheel barrow: ₦15,500
+- Total: ₦119,500
+- Casting of base: 100m × ₦500 = ₦50,000
+- Loading of panel: ₦1,000
+- Hiring of wheel barrow: ₦1,000
+- Hiring of drum: ₦500
+- Water supplied: ₦15,000
+- Welding and repair of wheel barrow: ₦15,500
+- Hiring of concrete mixer: ₦30,000
+- Additional transport for reinforced bars: ₦2,000
+- Bank charges: ₦1,500
+- Total: ₦88,500
+- Today's baskets: 9 units
+- Cumulative baskets (base casting) to date: 20 baskets (from 16-18 Feb)
+- Cement used: previously 28 bags, today 27 bags, total used 55 bags, cement in store 395 bags
+- Water supply: 15 trips × ₦1,000 = ₦15,000
+- Other expenses: transporting board ₦5,000, carpentry window ₦6,200 = ₦11,200
+
+### 2026-02-19
+- Casting of base: 60m × ₦500 = ₦30,000
+- Casting of wall: 7m × ₦1,000 = ₦7,000
+- Concrete mixer: ₦30,000
+- Outstanding: ₦3,000
+- Bank charges: ₦700
+- Total: ₦70,700
+- Additional: drum rented ₦500, two shovels rented ₦600, water supply 10 trips × ₦100 = ₦1,000 (total ₦2,100)
+- Previously cast: 20 baskets, cast today 6 baskets, cumulative 26 baskets, remaining 11 baskets
+- Cement: previously used 55 bags, today 22 bags, total used 77 bags, in store 373 bags
+- Water: 10 trips
+- Reinforced bars:
+  - Y10: used 37, balance 20
+  - Y8: used 40, balance 230
+  - 462 U-bars produced
+  - Cumulative baskets still 75 (no change from previous? Possibly typo, but recorded as 75)
+
+### 2026-02-20
+- First trip of sharp sand
+- Casting of base: 70m × ₦500 = ₦35,000
+- Concrete mixer: ₦30,000
+- Bank charges: ₦700
+- Total: ₦65,700
+- Bearing (2 × ₦1,200) = ₦2,400
+- Tyre refill: ₦200
+- Water domestic (2 trips) = ₦2,000
+- Packing/clearing sand dump: ₦4,000
+- Water supply (10 trips) = ₦10,000
+- Bank charges: ₦100
+- Total other: ₦18,700
+
+### 2026-02-21
+- First trip of aggregate
+- Carpenter achieved 94m
+- Starter rope for vibrator: ₦300
+- Fuel for vibrator: ₦1,200
+- Transport/offloading bars: ₦4,500
+- POS charges: ₦400
+- Water supply (4 trips) = ₦4,000
+- Drum rented (today & yesterday): ₦1,000
+- Two shovels rented (today & yesterday): ₦1,200
+- Transport of 42 baskets to safe store: ₦5,000
+- Total expenses: ₦17,600
+- Reinforced bars:
+  - Y8: used 100, balance 130
+  - 4 baskets produced, cumulative 79 baskets
+- Casting of wall: 7m × ₦1,000 = ₦7,000
+- Bank charges: ₦200
+- Total: ₦7,200
+- Cement: previously used 97 bags, today 5 bags, total used 102 bags, in store 348 bags
+- Water: 4 trips
+
+### 2026-02-22
+- Casting of wall: 50m × ₦1,000 = ₦50,000
+- Repair & excavation of drain @ Chairman street: 40m × ₦200 = ₦8,000
+- Concrete mixer: ₦25,000
+- 11 baskets for iron bender: 11 × ₦2,500 = ₦27,500
+- Bank charges: ₦1,500
+- Total: ₦112,000
+- Reinforced bars: 7 baskets produced, cumulative 86 baskets
+- Cement: previously used 102 bags, today 35 bags, total used 137 bags, in store 313 bags
+- Water: 14 trips
+- Additional: water supply ₦14,000, POS ₦300, drum ₦500, shovel ₦300, transport 7 baskets ₦1,000 = ₦16,100
+
+### 2026-02-23
+- First trip of aggregate, second, third, fourth trips of aggregate (Howo)
+- Casting of base: 56m × ₦500 = ₦28,000
+- Repair & excavation of drain: 80m × ₦200 = ₦16,000
+- Concrete mixer (half day): ₦12,500
+- Bank charges: ₦600
+- Total: ₦57,100
+- Cement: previously used 137 bags, today 18 bags, total used 155 bags, in store 295 bags
+- Water: 9 trips
+- Additional expenses: water ₦9,000, POS ₦200, drum ₦500, shovel yesterday ₦300, two shovels today ₦600, water home use ₦1,000 = ₦11,600
+
+### 2026-02-24
+- Casting of base: 7m × ₦500 = ₦3,500? (entry says #3,5000 typo, should be 3,500)
+- Casting of wall: 40m × ₦1,000 = ₦40,000
+- Repair & excavation of drain: 86m × ₦200 = ₦17,200
+- Concrete mixer: ₦25,000
+- Bank charges: ₦900
+- Total: ₦86,200
+- Additional: water 15 trips ₦15,000, POS ₦300, drum ₦500, two shovels ₦600, black oil 25L ₦25,000, vibrator fuel ₦1,200 = ₦42,600
+- Cement: previously used 155 bags, today 26 bags, total used 181 bags, in store 269 bags
+- Water: 15 trips
+
+### 2026-02-25
+- Casting of wall: 56m × ₦1,000 = ₦56,000
+- Repair & excavation of drain: 58m × ₦200 = ₦11,200
+- Concrete mixer: ₦25,000
+- Bank charges: ₦1,200
+- Total: ₦93,200
+- Additional: water 11 trips ₦11,000, POS ₦300, drum ₦500, two shovels ₦600, water 5 trips ₦5,000, loading stone ₦500 = ₦17,900
+- Progress on wall casting:
+  - Previously 40m, current 56m
+  - RHS = 56m, LHS = 94m, cumulative 150m
+  - Cement used: 44 bags
+
+### 2026-02-26
+- **CEMENT MISSING: 34 bags discovered missing.**
+  - Engineer and foreman informed Chairman. Security protocol violated. Chairman to take action.
+- Casting of base: 50m × ₦1,000 = ₦50,000 (note: rate changed? Usually base ₦500, but here ₦1,000 – possible typo)
+- Concrete mixer: ₦25,000
+- Bank charges: ₦800
+- Total: ₦75,800
+- Additional: water 14 trips ₦14,000, POS ₦300, drum ₦500, two shovels ₦600 = ₦15,400
+- Progress on wall casting:
+  - Previously 56m, current 50m, RHS = 50m, cumulative 200m
+  - Cement used: 32 bags
+
+### 2026-02-27
+- Casting of wall: 41.8m × ₦1,000 = ₦41,800
+- Concrete mixer: ₦25,000
+- Excavation & repair of trenches: 47.5m × ₦200 = ₦9,500
+- Bank charges: ₦800
+- Total: ₦77,800
+- Cement used: 20.5 bags, balance 138.5 bags
+- Y8 = 130 lengths, Y10 = 5 lengths
+- Water: 14 trips
+- Additional: water ₦14,000, POS ₦300, drum ₦500, two shovels ₦600, vibrator fuel ₦1,200, security for cement store ₦2,000 = ₦18,600
+
+### 2026-02-28
+- Casting of wall: 80m × ₦1,000 = ₦80,000
+- Concrete mixer: ₦45,000
+- Bank charges: ₦2,000
+- Total: ₦127,000
+- Cement used: 38.5 bags, balance 100.5 bags
+- Y8 = 130, Y10 = 5
+- Water: 22 trips (rate ₦800/trip = ₦17,600)
+- Additional: water ₦17,600, POS ₦300, drum ₦500, two shovels ₦600, vibrator fuel ₦1,000, security ₦2,000 = ₦22,000
+
+## MARCH 2026
+
+### 2026-03-01
+- Casting of wall: 34m × ₦1,000 = ₦34,000
+- Concrete mixer (half day?): ₦12,500
+- Excavation & repair of trenches: 13m × ₦250 = ₦3,250
+- Bank charges: ₦500
+- Total: ₦50,250
+- Cement used: 13.5 bags, balance 87 bags
+- Y8 = 120, Y10 = 0
+- Water: 10 trips
+- Additional: water 10×₦800=₦8,000, POS ₦300, drum ₦500, two shovels ₦600, labourer ₦1,000, security ₦2,000, iron bender (access slab) ₦6,000 = ₦18,400
+- **Monthly Summary to 01/03/26:**
+  - Total base casted: 424.5m
+  - Total wall casted: 361.1m
+  - Total cement used: 329 bags
+  - Total baskets: 86
+  - Total excavations: 978.9m
+  - Granite: 9 trips
+  - Sharp sand: 9 trips
+  - Cement remains: 87 bags
+
+### 2026-03-02
+- Casting of wall: 41m × ₦1,000 = ₦41,000
+- Concrete mixer: ₦25,000
+- Excavation & repair of trenches: 50m × ₦200 = ₦10,000
+- Bank charges: ₦800
+- Total: ₦76,800
+- Cement used: 26 bags, balance 61 bags
+- Y8 = 120, Y10 = 0
+- Water: 19 trips (₦800 each)
+- Additional: water ₦15,200, POS ₦300, drum ₦500, two shovels ₦600, wheelbarrow repairs ₦3,500, rented wheelbarrow ₦500, transport ₦300+₦2,000+₦1,000+₦400, vibrator fuel ₦1,200, security ₦2,000 = ₦27,500
+- Summary to 02/03/26:
+  - Total wall casted: 402.1m
+  - Cement used total: 355 bags
+  - Sharp sand: 10 trips
+  - Cement remains: 61 bags
+
+### 2026-03-03
+- Casting of wall: 22m × ₦1,000 = ₦22,000
+- Concrete mixer: ₦12,500
+- Excavation & repair of trenches: 40m × ₦200 = ₦8,000
+- Access slab (chairman gate): ₦6,000
+- Bank charges: ₦500
+- Total: ₦47,000
+- Cement used: 17 bags, balance 44 bags
+- Y8 = 120, Y10 = 0
+- Water: 9 trips (8×₦800 + 1×₦1,000 = ₦7,400)
+- Additional: water ₦7,400? Actually entry: 8×800=6,400 plus 1×1000=1,000 total 7,400, plus POS ₦300, drum ₦500, two shovels ₦600, security ₦2,000 = ₦10,800
+- Summary to 03/03/26:
+  - Total wall casted: 424.1m
+  - Carpenter: 193m, double panel 19m
+  - Total cement used: 372 bags
+  - Cement remains: 44 bags
+
+### 2026-03-04
+- Casting of base (note: says wall? but entry says base 95.5m): 95.5m × ₦500 = ₦47,750
+- Concrete mixer: ₦25,000
+- Loading & offloading of cement: ₦80,000 (seems high, possibly typo)
+- Excavation & repair of trenches: 98m × ₦200 = ₦19,600
+- Outstanding: ₦2,000
+- Transport fare: ₦800
+- Bank charges: ₦1,800
+- Total: ₦176,950
+- Cement used: 21 bags, balance 22 bags
+- Y8 = 120, Y10 = 134 (restocked?)
+- Water: 15 trips (₦900 each = ₦13,500)
+- Additional: water ₦13,500, POS ₦300, drum (1+2) ₦1,500, shovels ₦600, offloading cement ₦1,000, transport mixer etc ₦6,000, transport binding wire ₦500, padlock ₦1,200, security ₦3,000 = ₦27,600 (plus iron bender ₦6,000 from another entry total ₦33,600)
+- Summary to 04/03/26:
+  - Total base casted: 520m
+  - Mix sand: 3 Howo trips
+  - Total cement used: 393 bags
+  - Cement remains: 23 bags
+
+### 2026-03-05
+- Casting of base: 116.5m × ₦500 = ₦58,250
+- Concrete mixer: ₦25,000
+- Excavation & repair of trenches: 4m × ₦200 = ₦800
+- Bank charges: ₦1,800
+- Total: ₦84,850
+- Cement used: 19.5 bags, balance 4 bags
+- Y8 = 120, Y10 = 134
+- Water: 15 trips (₦900 each = ₦13,500)
+- Additional: water ₦13,500, POS ₦300, two drums ₦1,000, domestic water ₦1,000, two shovels ₦600, labourer ₦3,500, transport baskets ₦2,700 = ₦22,600
+- Summary to 05/03/26:
+  - Total base casted: 636.5m
+  - Total cement used: 412.5 bags
+  - Cement remains: 4 bags
+
+### 2026-03-06
+- **CEMENT DELIVERY: 500 bags new stock.** (Balance becomes 4 + 500 = 504, then 22 used = 482 bags)
+- **CEMENT MISSING: 2 bags stolen, thief caught.**
+- Casting of base: 120m × ₦500 = ₦60,000
+- Concrete mixer: ₦25,000
+- Purchase of 2 chains: ₦5,000
+- Purchase of 2 padlocks: ₦2,000
+- Transportation fare: ₦1,200
+- Outstanding: ₦850
+- Bank charges: ₦900
+- Total: ₦94,950
+- Cement used: 22 bags, balance 482 bags
+- Y8 = 120, Y10 = 134
+- Water: 18 trips (₦1,000 each = ₦18,000)
+- Additional: water ₦18,000, POS ₦300, two drums ₦1,000, two shovels ₦600, transport cement ₦1,000, transport panels ₦4,500 = ₦25,400
+- Summary to 06/03/26:
+  - Total base casted: 756.5m
+  - Total cement used: 434.5 bags
+  - Cement remains: 482 bags
+
+### 2026-03-07
+- Casting of wall: 57m × ₦1,000 = ₦57,000
+- Concrete mixer: ₦25,000
+- Iron bender stipend: ₦4,500
+- Transportation fare: ₦800
+- Bank charges: ₦800
+- Total: ₦88,100
+- Cement used: 30 bags, balance 452 bags
+- Y8 = 120, Y10 = 134
+- Water: 22 trips (₦1,000 each = ₦22,000)
+- Additional: water ₦22,000, transport 44 bars ₦2,500, POS ₦400, two drums ₦1,000, two shovels ₦600, vibrator fuel ₦1,400, black oil ₦25,000 = ₦52,900
+- Summary to 07/03/26:
+  - Total wall casted: 481.1m
+  - Carpenter: 75.3m + double panel 19.2m
+  - Total cement used: 464.5 bags
+  - Cement remains: 452 bags
+
+### 2026-03-08
+- Casting of wall: 63m × ₦1,000 = ₦63,000
+- Concrete mixer: ₦25,000 (entry says 25,00 typo)
+- Bank charges: ₦900
+- Total: ₦88,900
+- Cement used: 30.5 bags, balance 421.5 bags
+- Y8 = 120, Y10 = 134
+- Water: 21 trips (₦1,000 each = ₦21,000)
+- Additional: water ₦21,000, domestic water ₦1,000, POS ₦400, two drums ₦1,000, four shovels ₦1,200, wheelbarrow ₦800, repair/welding ₦3,000 = ₦28,400
+- Summary to 08/03/26:
+  - Total wall casted: 544.1m
+  - Carpenter 56m
+  - Total cement used: 495 bags
+  - Cement remains: 421.5 bags
+
+### 2026-03-09
+- First, second, third trips of sharp sand
+- Casting of wall: 60.8m × ₦1,000 = ₦60,800
+- Concrete mixer: ₦25,000 (entry says 25,00)
+- Excavation & repair: 35m × ₦200 = ₦7,000
+- Excavation of trenches: 13m × ₦500 = ₦6,500
+- Bank charges: ₦1,200
+- Total: ₦100,500
+- Cement used: 28.5 bags, balance 393 bags
+- Y8 = 120, Y10 = 134
+- Water: 18 trips (₦1,000 each = ₦18,000)
+- Additional: water ₦18,000, transport to buy black oil ₦700, POS ₦400, two drums ₦1,000, four shovels ₦1,200, wheelbarrow ₦800, repair vibrator rod ₦15,000 = ₦37,100
+- Summary to 09/03/26:
+  - Total wall casted: 604.9m
+  - Total excavations: 991.9m
+  - Sharp sand: 16 trips
+  - Total cement used: 523.5 bags
+  - Cement remains: 450 bags? Wait, balance above says 393, but summary says 450. Possibly restocked? Inconsistent. Keep as recorded: balance 393.
+
+### 2026-03-10
+- Casting of wall: 31.1m × ₦1,000 = ₦31,100
+- Casting of base: 47m × ₦500 = ₦23,500
+- Casting of box culvert blinding: 7m × 2.4m = ₦6,000
+- Concrete mixer: ₦25,000
+- Bank charges: ₦1,200
+- Total: ₦86,400
+- Cement used: 27.5 bags, balance 365.5 bags
+- Y8 = 120, Y10 = 134
+- Water: 16 trips (₦1,000 each = ₦16,000)
+- Additional: water ₦16,000, domestic water ₦1,000, POS ₦600, two drums ₦1,000, four shovels ₦1,200, wheelbarrow ₦800 = ₦20,600
+- Summary to 10/03/26:
+  - Total base casted: 803.5m
+  - Total wall casted: 636m
+  - Culverts: 7m × 2.4m (cement used 3 bags)
+  - Total cement used: 551 bags
+  - Cement remains: 365.5 bags
+
+### 2026-03-11
+- Casting of wall: 66m × ₦1,000 = ₦66,000
+- Concrete mixer: ₦28,000
+- Bank charges: ₦900
+- Total: ₦94,900
+- Cement used: 41 bags, balance 324.5 bags
+- Y8 = 120, Y10 = 134
+- Water: 22 trips (₦1,000 each = ₦22,000)
+- Additional: water ₦22,000, NEPA payment ₦4,000, POS ₦600, two drums ₦1,000, four shovels ₦1,200, wheelbarrow ₦800, transport cement ₦2,000, labourer ₦2,000 = ₦33,600
+- Summary to 11/03/26:
+  - Total wall casted: 702m
+  - Carpenter: 76.8m single + 4.8m double = 81.6m
+  - Total cement used: 592 bags
+  - Cement remains: 324.5 bags
+
+### 2026-03-12
+- Casting of base: 94m × ₦1,000? Note: says ₦1,000 but base usually ₦500 – possibly error. Recorded as ₦47,000 (so 94×500)
+- Concrete mixer: ₦28,000
+- Bank charges: ₦700
+- Total: ₦75,700
+- Cement used: 18.5 bags, balance 306 bags
+- Y8 = 120, Y10 = 134
+- Water: 13 trips (₦1,000 each = ₦13,000)
+- Additional: water ₦13,000, transport iron bars ₦2,500, POS ₦600, two drums ₦1,000, four shovels ₦1,200, two wheelbarrows ₦800? Actually ₦800 each? Entry says ₦800 for two? Clarify: "Two wheelbarrows rented — ₦800" likely each? But total: ₦800? We'll keep as recorded: ₦800. Transport cement ₦2,100, rammer ₦800, backfilling sand ₦6,500, security ₦3,000 = ₦31,500
+- Summary to 12/03/26:
+  - Total base casted: 897.5m
+  - Backfilling: 13m × 0.4m × 1.0m
+  - Total cement used: 610.5 bags
+  - Cement remains: 306.5 bags
+
+### 2026-03-13
+- Casting of base: 57.6m × ₦500 = ₦28,800
+- Concrete mixer: ₦14,000
+- Bank charges: ₦400
+- Total: ₦43,200
+- Cement used: 11.5 bags, balance 295 bags
+- Y8 = 120, Y10 = 94, Y16 = 21
+- Water: 9 trips (₦1,000 each = ₦9,000)
+- Additional: water ₦9,000, domestic water ₦1,000, POS ₦600, two drums ₦1,000, four shovels ₦1,200, two wheelbarrows ₦1,600, welding wheelbarrow ₦2,000, transferring stones ₦3,500, transport baskets ₦1,000 = ₦20,900
+- Summary to 13/03/26:
+  - Total base casted: 955.1m
+  - Carpenter 62m
+  - Total cement used: 622 bags
+  - Cement remains: 295 bags
+
+### 2026-03-14
+- Casting of base: 36m × ₦500 = ₦18,000
+- Casting of box culvert base: ₦25,000
+- Concrete mixer: ₦14,000
+- Excavation of trenches: 4.5m × ₦1,000 = ₦4,500
+- Bank charges: ₦500
+- Total: ₦48,000
+- Cement used: drain base 6.5 bags, box culvert base 15 bags, total 21.5 bags, balance 273.5 bags
+- Water: 11 trips (₦1,000 each = ₦11,000)
+- Additional: water ₦11,000, POS ₦400, one drum ₦500, two shovels ₦600, one wheelbarrow ₦800, one digger ₦500, vibrator roll ₦300 = ₦13,600
+- Summary to 14/03/26:
+  - Total base casted: 991.1m
+  - Culverts: blinding + base
+  - Total cement used: 643.5 bags (including 3+18 for culvert)
+  - Total excavations: 996.4m
+  - Cement remains: 273.5 bags
+
+### 2026-03-15
+- 8 trips of sharp sand (pickup)
+- Casting of wall: 48.8m × ₦1,000 = ₦48,800
+- Concrete mixer: ₦28,000
+- Transportation to river for sand inspection: ₦2,000
+- Purchase sharp sand: 8 trips × ₦8,000 = ₦64,000
+- Bank charges: ₦1,700
+- Total: ₦144,500
+- Cement used: 28 bags, balance 245.5 bags
+- Water: 13 trips (₦1,000 each = ₦13,000)
+- Additional: water ₦13,000, POS ₦600, two drums ₦500, two shovels ₦600, wheelbarrow ₦800, tyre repair ₦200, transport cement ₦2,030, petrol vibrator ₦1,400, 10 paint rubber ₦2,000, transport ₦200 = ₦21,330
+- Summary to 15/03/26:
+  - Total wall casted: 750.8m
+  - Sharp sand: 16 trips + 8 pickup trips
+  - Total cement used: 671.5 bags
+  - Cement remains: 245.5 bags
+
+### 2026-03-16
+- First, second, third trips of sharp sand
+- Casting of wall: 27.4m × ₦1,000 = ₦27,400
+- Casting of box culvert wall: ₦30,000
+- Concrete mixer: ₦28,000
+- Purchase 3 trips sharp sand: 3 × ₦8,000 = ₦24,000
+- Bank charges: ₦900
+- Total: ₦95,400 (but duplicate entry shows ₦95,400, then another shows different cement usage – consolidate)
+- Cement used: drain wall 13 bags, box culvert wall 12 bags = 25 bags, balance 220.5 bags? Inconsistent. First entry says 17+12=29, balance 216.5; second says 13+12=25, balance 220.5. Taking later: balance 220.5.
+- Water: 11 trips (₦1,000 each = ₦11,000)
+- Additional: water ₦11,000, POS ₦600, two drums ₦1,000, three shovels ₦900, wheelbarrow ₦800, tyre patches ₦200, labour moving cement ₦1,400 = ₦15,900
+- Summary to 16/03/26:
+  - Total wall casted: 778.2m
+  - Carpenter: 48m single + 8m double = 56m
+  - Total cement used: 696.5 bags
+  - Cement remains: 221.5 bags
+
+### 2026-03-17
+- First trip of sharp sand
+- Casting of wall: 20.5m × ₦1,000 = ₦20,500
+- Casting of box culvert deck: ₦27,000
+- Concrete mixer: ₦28,000
+- Bank charges: ₦700
+- Total: ₦76,200
+- Cement used: drain wall 13 bags, box culvert deck 15 bags = 28 bags, balance 188.5 bags
+- Y8 = 120, Y10 = 75, Y16 = 4
+- Water: 10 trips (₦1,000 each = ₦10,000)
+- Additional: water ₦10,000, POS ₦600, two drums ₦1,000, three shovels ₦900, two wheelbarrows ₦1,600, handle repair ₦4,000, transfer stones ₦6,000, transport iron ₦500, paint rubbers ₦2,000, fuel vibrator ₦1,000 = ₦27,600
+- **Work ended for Eid el-Fitr holiday. Travelled to Gombe.**
+
+### 2026-03-18 to 2026-03-27
+- Holiday (Eid el-Fitr). Extended due to engineer's illness. Work resumes 28-03-26.
+
+### 2026-03-28
+- Water supply for wall drainage: 15 trips × ₦1,000 = ₦15,000
+- POS: ₦400
+- Shovels rental (3) = ₦1,500
+- Nylon handpicking: ₦500
+- Rubber paint rental (5) = ₦1,000
+- Domestic water (previous day): ₦1,000
+- Transport cement (25 bags): ₦1,000
+- Total: ₦20,400
+
+### 2026-03-29
+- Wall casting: 51m × ₦1,000 = ₦51,000
+- Concrete mixer: ₦28,000
+- POS: ₦500
+- Total: ₦79,500
+- Water used: 13 trips (₦13,000? Included in mixer? Actually recorded separately but summarized)
+- Cement used: 21 bags
+
+### 2026-03-30
+- Curing of culvert (2 jerricans for 10 days): ₦2,000
+- Transferring aggregate infront of chairman house: ₦2,000
+- Casting of wall: 50.2m × ₦1,000 = ₦50,200
+- Concrete mixer for 3 days: 3 × ₦28,000 = ₦84,000
+- Bank charges: ₦600
+- Total: ₦138,800
+- Cement used: 23.5 bags, balance from previous? Summary says cement remains 124 bags after this day.
+- Water: 15 trips (₦15,000)
+- Additional: water ₦15,000, POS ₦400, three shovels ₦1,500, nylon picking ₦1,000, three rubber buckets ₦600, domestic water ₦1,000, two wheelbarrows ₦800, two drums ₦600, extra water trip ₦1,000, transport ₦200, digger ₦500 = ₦22,600
+- Summary to 30/03/26:
+  - Total wall casted: 949.9m
+  - Total cement used: 790 bags
+  - Cement remains: 124 bags
+
+### 2026-03-31
+- Wall casting: 56m? (summary says 50m? Let's use: 50m wall + 21.4m base)
+- Base casting: 21.4m
+- Culvert: 1
+- Cement used: 28.5 bags, balance 95.5 bags
+- Water: 15 trips (₦15,000) + additional ₦600 = ₦15,600
+- Additional: POS ₦400, three shovels ₦1,500, three rubber buckets ₦600, domestic water ₦1,000, two wheelbarrows ₦1,600, two drums ₦600, wheelbarrow repair ₦500, vibrator rope ₦309, transport (Haruna) ₦600, transport to water ₦400, removal apron/excavation ₦7,000, digger ₦500, operator stipend ₦1,500 = total ₦32,109
+- Summary to 31/03/26:
+  - Total base casted: 1012.5m
+  - Total wall casted: 999.9m
+  - Total cement used: 818.5 bags
+  - Cement remains: 95.5 bags
+
+## APRIL 2026
+
+### 2026-04-01
+- Casting of wall: 10.4m × ₦1,000 = ₦10,400
+- Casting of apron base, blinding, toe beam (proposed): ₦20,000
+- Bank charges: ₦300
+- Total: ₦30,700
+- Cement used: culvert 6 bags, drain wall 3 bags = 9 bags, balance 86.5 bags
+- Water: 5 trips (₦5,000)
+- Additional: POS ₦400, three shovels ₦1,500, half roll binding wire ₦20,000, three rubber buckets ₦600, two wheelbarrows ₦1,600, two drums ₦1,000, digger ₦500, transport iron bars ₦3,000 = ₦33,600
+- Summary to 01/04/26:
+  - Total wall casted: 1010.3m
+  - Total cement used: 827.5 bags
+  - Cement remains: 86.5 bags
+  - Access slabs proposed: 27m (4×3m + 10×1.5m)
+
+### 2026-04-02
+- Water supply: 6 trips × ₦1,000 = ₦6,000
+- POS: ₦400
+- Three shovels: ₦1,500
+- Three rubber buckets: ₦600
+- One wheelbarrow: ₦800
+- Two drums: ₦1,000
+- One digger: ₦500
+- Removal apron/excavation: ₦1,500
+- Total: ₦12,300
+- Cement used: 13 bags
+
+### 2026-04-03
+- Water supply: 5 trips × ₦1,000 = ₦5,000
+- POS: ₦400
+- Three shovels: ₦1,500
+- Three rubber buckets: ₦600
+- One wheelbarrow: ₦800
+- Two drums: ₦1,000
+- One digger: ₦500
+- Wheelbarrow repair: ₦1,500
+- Binding wire: ₦21,000
+- Transport iron bars: ₦1,500
+- Total: ₦33,800
+- Cement used: 6.5 bags
+
+### 2026-04-04
+- Casting of base: 6.0m × ₦500 = ₦3,000
+- Excavation: 6m × ₦1,100 = ₦6,600
+- Purchase 3 trips sharp sand: ₦24,000
+- Bank charges: ₦400
+- Total: ₦37,600
+- Cement used: 11 bags (from summary table)
+- Balance after 04/04: 47.5 bags
+
+### 2026-04-05
+- First, second, third trips of sharp sand
+- Water supply: 5 trips × ₦1,000 = ₦5,000
+- POS: ₦300
+- Three shovels: ₦1,500
+- Three rubber buckets: ₦600
+- One wheelbarrow: ₦800
+- One drum: ₦500
+- One digger: ₦500
+- Wheelbarrow repairs: ₦2,000
+- Transport cement/wood/boards: ₦4,000
+- Nails for carpenter: ₦5,000
+- Total: ₦20,200
+- Cement used: 10 bags
+- Balance after 05/04: 37.5 bags
+
+### 2026-04-06
+- Casting of wall: 6.0m × ₦1,000 = ₦6,000
+- Water supply: 5 trips × ₦1,000 = ₦5,000
+- POS: ₦200
+- Three shovels: ₦1,500
+- Three rubber buckets: ₦600
+- One wheelbarrow: ₦800
+- One drum: ₦500
+- One digger: ₦500
+- Transport to Chairman site (previous day): ₦400
+- Bike transport cement: ₦1,500
+- Transport to Chairman site: ₦400
+- Total: ₦11,400 (plus casting 6,000 = 17,400? But casting listed separately. Total expenses including casting = ₦17,400)
+- Cement used: 13 bags
+- Balance after 06/04: 24.5 bags
+
+### 2026-04-07
+- Summary to 07/04/26 (no daily expense lines):
+  - Total base casted: 1012.5m
+  - Total wall casted: 1016.3m
+  - Total slabs casted: 71m
+  - Culvert casted: 1
+  - Total cement used: 900 bags
+  - Cement remains: 11 bags
+  - Y8 remains: 92 pcs, Y10 remains: 25 pcs, Y16 remains: 2 pcs, various offcuts.
+  - Cement used 01-07 April: 1/4:9, 2/4:13, 3/4:13.5, 4/4:11, 5/4:10, 6/4:13, 7/4:8.5 → total 78 bags, balance from 86.5 to 11 (difference 75.5, close)
+- Cement used on 07/04: 8.5 bags, balance 16? Actually summary says remains 11 bags. Let's use 11.
+
+### 2026-04-08
+- Water supply: 4 jerrycans × ₦100 = ₦400
+- POS: ₦400
+- Three shovels: ₦1,500
+- Three rubber buckets: ₦600
+- One wheelbarrow: ₦800
+- One digger: ₦500
+- Domestic water: ₦1,000
+- Transporting/packing stone: ₦15,000
+- Parking panel boards to store: ₦2,000
+- NEPA bill: ₦4,000
+- Total: ₦26,200
+- Cement used: 1.5 bags
+
+### 2026-04-12
+- 38 trips of laterite
+- Digger rental (yesterday): ₦500
+- Domestic water (yesterday): ₦1,000
+- Food at borrow pit: ₦3,000
+- Total: ₦4,500
+
+### 2026-04-15
+- Grader arrived, roller arrived, water tanker arrived
+
+### 2026-04-16
+- Grader, roller, water tanker at work
+- Digger rental: ₦500
+- Shovels (2) rental: ₦1,000
+- Water supply (wetting culvert slope): 4 trips × ₦1,000 = ₦4,000
+- Total: ₦5,500
+
+### 2026-04-17
+- Grader, roller, water tanker at work
+- Shovels (3) rental: ₦1,500
+- Laterite: 11 trips pickup + 12 trips 6-tyre truck
+- 4 labourers: ₦16,000
+- Transportation for water investigation: ₦1,000
+- Transportation within town: ₦1,200
+- POS: ₦200
+- Total: ₦18,400
+
+### 2026-04-18
+- 1st & 2nd trips laterite (6-tyre)
+- 1st, 2nd, 3rd, 4th trips stone base
+- Domestic water (2 trips): ₦2,000
+- POS: ₦200
+- Shovels (2): ₦1,000
+- Wheelbarrow (1): ₦800
+- Total: ₦4,000
+
+### 2026-04-19
+- 3 labourers: ₦12,000
+- Security fees for machines: ₦10,000
+- Hotel accommodation for operators: ₦6,000
+- POS: ₦300
+- Total: ₦34,300
+- Additional: POS ₦200, shovels (2 today + 2 tomorrow) ₦2,000, repair rake ₦1,000 = ₦3,200
+
+### 2026-04-20
+- POS: ₦150
+- Repair of 2 rakes: ₦1,600
+- Rammer: ₦800
+- Total: ₦2,550
+- 4 trips stone base
+- 3 labourers: ₦12,000
+- Water tanker driver: ₦5,000
+- Water for 4 sides of culvert: ₦2,000
+- Treatment for injury: ₦2,000
+- POS: ₦300
+- Total: ₦21,200
+
+### 2026-04-28
+- 1 trip of sharp sand
+
+### 2026-04-29
+- Water supply: 3 trips × ₦1,000 = ₦3,000
+- POS: ₦150
+- Digger: ₦500
+- Shovel (2): ₦1,000
+- Rammer: ₦800
+- Total: ₦5,450
+- Casting of 4 corners of culvert: ₦35,000
+- POS: ₦400
+- Total: ₦35,400
+- Cement used: 6.5 bags
+
+### 2026-04-30
+- Purchase 1 tricycle of sharp sand: ₦5,000
+
+## MAY 2026
+
+### 2026-05-03
+- Water supply (chairman site): 3 trips × ₦1,000 = ₦3,000
+- POS: ₦150
+- Shovel (1): ₦500
+- Rammer: ₦800
+- Transportation: ₦200
+- Total: ₦4,650
+
+### 2026-05-04
+- Water supply (INEC site): 5 × ₦100 = ₦500
+- POS: ₦150
+- Shovel (1 today + 3 for tomorrow): ₦500 + ₦1,500 = ₦2,000
+- Digger: ₦500
+- Total: ₦3,150
+
+### 2026-05-05
+- Hiring of 4 labourers: ₦16,000
+- Domestic water: 2 trips × ₦1,000 = ₦2,000
+- POS: ₦150
+- Shovel rental (for tomorrow): 3 × ₦500 = ₦1,500
+- Digger: ₦500
+- Transfer equipment from old store: ₦2,000
+- Total: ₦6,150
+
+**Final equipment left on site (as of 05/05/26):**
+- Cement: 3 bags
+- Bracing wood
+- Vibrator machine: 2 units
+- Safety traffic cones: 5 units
+- Binding wire (1/2)
+- Bagco bag (items)
+- Rubber paint: 3 units
+- Rake: 1
+- Shovel: 1
+- Wheelbarrow: 3 units
+- Bucket
+- Drum: 1
+- Water pump machine: 1
+- Headpan: 2 units
+
+--- END OF LOG ---
