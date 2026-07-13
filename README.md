@@ -306,6 +306,7 @@ The complete list of DAX measures and calculated columns is available in the `po
 ### Django Web Application
 An interactive analytics dashboard with searchable operational records, live charts, and reports, wrapped in a responsive interface and deployed on PythonAnywhere.
 
+👉 **[View Live Dashboard](https://rotimi5050.pythonanywhere.com)**
 ![Django Web App](./screenshots/django/live_dashboard.png)
 
 
