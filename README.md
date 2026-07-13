@@ -307,7 +307,6 @@ The complete list of DAX measures and calculated columns is available in the `po
 An interactive analytics dashboard with searchable operational records, live charts, and reports, wrapped in a responsive interface and deployed on PythonAnywhere.
 
 👉 **[View Live Dashboard](https://rotimi5050.pythonanywhere.com)**
-![Django Web App](./screenshots/django/live_dashboard.png)
 
 
 ---
@@ -409,7 +408,7 @@ A few directions I'd like to take this further:
 - LinkedIn: [linkedin.com/in/rotimi-sheriff-omosewo](https://linkedin.com/in/rotimi-sheriff-omosewo)
 - GitHub: [github.com/rotimi2020](https://github.com/rotimi2020/)
 - Portfolio: [rotimi2020.github.io](https://rotimi2020.github.io/)
-- Live Dashboard: [rotimi5050.pythonanywhere.com](https://rotimi5050.pythonanywhere.com)
+
 
 ---
 
