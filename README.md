@@ -23,7 +23,7 @@ The Django dashboard is deployed and live — you can explore it here:
 
 👉 **[View Live Dashboard](https://rotimi5050.pythonanywhere.com)**
 
-![Django Dashboard Preview](./screenshots/django/dashboard.png)
+![Django Dashboard Preview](./screenshots/django/live_dashboard.png)
 
 
 ---
