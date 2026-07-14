@@ -338,12 +338,12 @@ print(cement_pivot)
 An interactive Power BI dashboard built to monitor project costs, construction activities, material consumption, equipment utilisation, and overall project performance. The report includes custom DAX measures, calculated columns, and interactive visualisations to support operational decision-making.
 
 #### Dashboard Previews
-
-<img src="./power_bi/screenshots/cost_summary.PNG" width="600">
-
-<img src="./power_bi/screenshots/site_operations.PNG" width="600">
-
-<img src="./power_bi/screenshots/store_records.PNG" width="600">
+- **Site Progress & Cost Summary**:
+<br><img src="./power_bi/screenshots/cost_summary.PNG" width="600"><br>
+- **Site Operations & Equipment**:
+<br><img src="./power_bi/screenshots/site_operations.PNG" width="600"><br>
+- **Materials & Store Records**:
+<br><img src="./power_bi/screenshots/store_records.PNG" width="600"><br>
 
 **Sample DAX Measure — Total Project Cost**
 
