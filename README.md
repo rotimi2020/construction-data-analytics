@@ -528,7 +528,7 @@ This project demonstrates a complete, end-to-end data analytics workflow — sta
 - LinkedIn: [linkedin.com/in/rotimi-sheriff-omosewo](https://linkedin.com/in/rotimi-sheriff-omosewo)
 - GitHub: [github.com/rotimi2020](https://github.com/rotimi2020/)
 - Portfolio: [rotimi2020.github.io](https://rotimi2020.github.io/)
-- Live Dashboard: [rotimi5050.pythonanywhere.com](https://rotimi5050.pythonanywhere.com)
+
 
 ---
 
